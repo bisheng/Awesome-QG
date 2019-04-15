@@ -1,7 +1,7 @@
 ## QuestionGenerationPapers
 
 ### 2014-2019
-
+---
 1. **Learning to Ask: Neural Question Generation for Reading Comprehension** *Xinya Du, Junru Shao, Claire Cardie.* ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 2. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
@@ -10,8 +10,8 @@
 
 
 ### 2008-2014
-
-1. **Good Question! Statistical Ranking for Question Generation** *Heilman, Michael and Smith, Noah A* Association for Computational Linguistics 2010.[paper](http://delivery.acm.org/10.1145/1860000/1858085/p609-heilman.pdf?ip=121.249.15.170&id=1858085&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555327623_8e5f7f68882d1656b2670488e6b18042) [dataset1](http://en.wikipedia.org)[dataset2](http://simple.wikipedia.org)
+---
+1. **Good Question! Statistical Ranking for Question Generation** *Heilman, Michael and Smith, Noah A* Association for Computational Linguistics 2010.[paper](http://delivery.acm.org/10.1145/1860000/1858085/p609-heilman.pdf?ip=121.249.15.170&id=1858085&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555327623_8e5f7f68882d1656b2670488e6b18042) [dataset1](http://en.wikipedia.org) [dataset2](http://simple.wikipedia.org)
 
 2. **Automation of question generation from sentences** *Ali, H., Chali, Y., & Hasan, S. A.* QG2010: The Third Workshop on Question Generation  2010. [paper](https://s3.amazonaws.com/academia.edu.documents/30634122/QG2010-Proceedings.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555331831&Signature=eQqkh5sgRtLlVgGcaJFHTYXip78%3D&response-content-disposition=inline%3B%20filename%3DQG2010_The_Third_Workshop_on_Question_Ge.pdf#page=63) 
 
