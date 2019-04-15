@@ -28,21 +28,19 @@
 
 14. **Natural language question generation using syntax and keywords** *Kalady S, Elikkottil A, Das R.* QG2010: The Third Workshop on Question Generation, 2010. [paper](http://oro.open.ac.uk/22343/1/QG2010-Proceedings.pdf#page=6)
 
-15. **Learning to ask: Neural question generation for reading comprehension** *Du X, Shao J, Cardie C.* arXiv preprint arXiv:1705.00106, 2017. [paper](https://arxiv.org/pdf/1705.00106.pdf) [code](https://github.com/xinyadu/nqg)
+15. **Question generation from concept maps** *Olney A M, Graesser A C, Person N K.* Dialogue & Discourse, 2012. [paper](http://journals.linguisticsociety.org/elanguage/dad/article/download/1480/1480-5849-1-PB.pdf)
 
-16. **Question generation from concept maps** *Olney A M, Graesser A C, Person N K.* Dialogue & Discourse, 2012. [paper](http://journals.linguisticsociety.org/elanguage/dad/article/download/1480/1480-5849-1-PB.pdf)
+16. **Automated question generation methods for intelligent English learning systems and its evaluation.** *Kunichika H, Katayama T, Hirashima T, et al.* ICCE,2004. [paper](https://pdfs.semanticscholar.org/3147/93e319bd152b3648d0e23e99a05060b0de40.pdf)
 
-17. **Automated question generation methods for intelligent English learning systems and its evaluation.** *Kunichika H, Katayama T, Hirashima T, et al.* ICCE,2004. [paper](https://pdfs.semanticscholar.org/3147/93e319bd152b3648d0e23e99a05060b0de40.pdf)
+17. **Automatic question generation from text-an aid to independent study.** *Wolfe, John H.*  ACM, 1976. [paper](https://dl.acm.org/ft_gateway.cfm?id=803459&ftid=55266&dwn=1&CFID=63632059&CFTOKEN=76639a403930074e-4A928639-0E8A-476C-C903CA263C8D5F8F)
 
-18. **Automatic question generation from text-an aid to independent study.** *Wolfe, John H.*  ACM, 1976. [paper](https://dl.acm.org/ft_gateway.cfm?id=803459&ftid=55266&dwn=1&CFID=63632059&CFTOKEN=76639a403930074e-4A928639-0E8A-476C-C903CA263C8D5F8F)
+18. **Question generation and anomaly detection in texts.** *Otero J.*  Routledge, 2009. [paper](https://www.taylorfrancis.com/books/e/9781135591946/chapters/10.4324/9780203876428-12)
 
-19. **Question generation and anomaly detection in texts.** *Otero J.*  Routledge, 2009. [paper](https://www.taylorfrancis.com/books/e/9781135591946/chapters/10.4324/9780203876428-12)
+19. **The first question generation shared task evaluation challenge** *Rus V, Wyse B, Piwek P, et al.* INLG, 2010. [paper](http://oro.open.ac.uk/22345/1/QGSTEC-INLG-10.pdf)
 
-20. **The first question generation shared task evaluation challenge** *Rus V, Wyse B, Piwek P, et al.* INLG, 2010. [paper](http://oro.open.ac.uk/22345/1/QGSTEC-INLG-10.pdf)
+20. **Effects of a reciprocal questioning intervention on the question generation and responding of children with autism spectrum disorder** *Whalon K, Hanline M F.* Education and Training in Developmental Disabilities, 2008. [paper](http://www.daddcec.org/Portals/0/CEC/Autism_Disabilities/Research/Publications/Education_Training_Development_Disabilities/2008v43_Journals/ETDD_200809v43n3p367-387_Effects_Reciprocal_Questioning_Intervention_Question_Generation.pdf) 
 
-21. **Effects of a reciprocal questioning intervention on the question generation and responding of children with autism spectrum disorder** *Whalon K, Hanline M F.* Education and Training in Developmental Disabilities, 2008. [paper](http://www.daddcec.org/Portals/0/CEC/Autism_Disabilities/Research/Publications/Education_Training_Development_Disabilities/2008v43_Journals/ETDD_200809v43n3p367-387_Effects_Reciprocal_Questioning_Intervention_Question_Generation.pdf) 
-
-22.
+21.
 
 
 
