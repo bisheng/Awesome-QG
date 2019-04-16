@@ -2,33 +2,32 @@
 
 ### 2014-2019
 ---
-1. **Learning to Ask: Neural Question Generation for Reading Comprehension** *Xinya Du, Junru Shao, Claire Cardie.* ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
+11. **Visual question generation as dual task of visual question answering** *Li, Yikang, et al.*  IEEE CVPR,2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
-2. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
+1. **Learning to Ask: Neural Question Generation for Reading Comprehension** *Xinya Du, Junru Shao, Claire Cardie.* ACL 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 3. **Neural question generation from text: A preliminary study** *Zhou, Qingyu, et al.* National CCF Conference on Natural Language Processing and Chinese Computing,2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
 
-4. **Ontology-based multiple choice question generation** *Al-Yahya, Maha.* The Scientific World Journal,2014. [paper](https://www.hindawi.com/journals/tswj/2014/274949/abs/) 
-
 5. **Question answering and question generation as dual tasks** *Tang, Duyu, et al.*  arXiv preprint arXiv:1706.02027 , 2017. [paper](https://arxiv.org/pdf/1706.02027.pdf)
+
+10. **A joint model for question answering and question generation** *Wang, Tong, Xingdi Yuan, and Adam Trischler.* arXiv preprint arXiv:1706.01450, 2017. [paper](https://arxiv.org/pdf/1706.01450.pdf)
+
+
+13. **Neural models for key phrase detection and question generation** *Subramanian, Sandeep, et al.* arXiv preprint arXiv:1706.04560,2017. [paper](https://arxiv.org/pdf/1706.04560.pdf)
 
 6. **Machine comprehension by text-to-text neural question generation** *Yuan, Xingdi, et al.* arXiv preprint arXiv:1705.02012, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
 
 7. **Question generation for question answering** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
-8. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen* ACL,2014. [paper](https://www.aclweb.org/anthology/P14-2053)
-
-9. **Automatic question generation for educational applications–the state of art** *Le, Nguyen-Thinh, Tomoko Kojiri, and Niels Pinkwart.* ACMKE,2014. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-06569-4.pdf) 
-
-10. **A joint model for question answering and question generation** *Wang, Tong, Xingdi Yuan, and Adam Trischler.* arXiv preprint arXiv:1706.01450, 2017. [paper](https://arxiv.org/pdf/1706.01450.pdf)
-
-11. **Visual question generation as dual task of visual question answering** *Li, Yikang, et al.*  IEEE CVPR,2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
+2. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
 
 12. **Literature review of automatic question generation systems** *Rakangor, Sheetal, and Y. Ghodasara.*  International Journal of Scientific and Research Publications,2015. [paper](https://s3.amazonaws.com/academia.edu.documents/36753843/ijsrp-p3757.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555388885&Signature=VenSDasp6rWYhbrgqHhgx8G6YYM%3D&response-content-disposition=inline%3B%20filename%3DLiterature_Review_of_Automatic_Question.pdf)
 
-13. **Neural models for key phrase detection and question generation** *Subramanian, Sandeep, et al.* arXiv preprint arXiv:1706.04560,2017. [paper](https://arxiv.org/pdf/1706.04560.pdf)
+4. **Ontology-based multiple choice question generation** *Al-Yahya, Maha.* The Scientific World Journal,2014. [paper](https://www.hindawi.com/journals/tswj/2014/274949/abs/) 
 
+8. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen* ACL,2014. [paper](https://www.aclweb.org/anthology/P14-2053)
 
+9. **Automatic question generation for educational applications–the state of art** *Le, Nguyen-Thinh, Tomoko Kojiri, and Niels Pinkwart.* ACMKE,2014. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-06569-4.pdf) 
 
 
 
