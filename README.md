@@ -16,7 +16,7 @@
 
 7. **Question generation for question answering** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
-8. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen* AMACL,2014. [paper](https://www.aclweb.org/anthology/P14-2053)
+8. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen* ACL,2014. [paper](https://www.aclweb.org/anthology/P14-2053)
 
 9. **Automatic question generation for educational applications–the state of art** *Le, Nguyen-Thinh, Tomoko Kojiri, and Niels Pinkwart.* ACMKE,2014. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-06569-4.pdf) 
 
@@ -27,8 +27,6 @@
 12. **Literature review of automatic question generation systems** *Rakangor, Sheetal, and Y. Ghodasara.*  International Journal of Scientific and Research Publications,2015. [paper](https://s3.amazonaws.com/academia.edu.documents/36753843/ijsrp-p3757.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555388885&Signature=VenSDasp6rWYhbrgqHhgx8G6YYM%3D&response-content-disposition=inline%3B%20filename%3DLiterature_Review_of_Automatic_Question.pdf)
 
 13. **Neural models for key phrase detection and question generation** *Subramanian, Sandeep, et al.* arXiv preprint arXiv:1706.04560,2017. [paper](https://arxiv.org/pdf/1706.04560.pdf)
-
-14. **The Effect of Question-Generation Strategy on Iranian EFL Learners' Reading Comprehension Development.** *Khansir, Ali Akbar, and Jamshid Gholami Dashti.*  English Language Teaching,2014. [paper](http://files.eric.ed.gov/fulltext/EJ1075724.pdf)
 
 
 
