@@ -19,7 +19,7 @@
 
 8. **Question generation for question answering** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
-9. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
+9. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics, 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
 
 10. **Literature review of automatic question generation systems** *Rakangor, Sheetal, and Y. Ghodasara.*  International Journal of Scientific and Research Publications,2015. [paper](https://s3.amazonaws.com/academia.edu.documents/36753843/ijsrp-p3757.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555388885&Signature=VenSDasp6rWYhbrgqHhgx8G6YYM%3D&response-content-disposition=inline%3B%20filename%3DLiterature_Review_of_Automatic_Question.pdf)
 
