@@ -2,7 +2,17 @@
 
 ### 2014-2019
 ---
-1. **Visual question generation as dual task of visual question answering** *Li, Yikang, et al.* CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
+1. **Information Maximizing Visual Question Generation** *Krishna, Ranjay and Bernstein, Michael and Fei-Fei, Li.* arXiv, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf) 
+
+2. **Joint Learning of Question Answering and Question Generation** *Sun Y, Tang D, Duan N, et al.*  IEEE, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8636251) [dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
+
+3. **Authentication Using Dynamic Question Generation** *Siddavatam I, Khatri D, Ashar P, et al.* Integrated Intelligent Computing, Communication and Security, 2019. [paper](https://link.springer.com/chapter/10.1007/978-981-10-8797-4_31)
+
+4. **Domain-specific question-answer pair generation** *Beason W A, Chandrasekaran S, Gattiker A E, et al.*  Google Patents, 2019. [paper](https://patentimages.storage.googleapis.com/52/99/67/704ea56473675d/US10170014.pdf)
+
+5. **Anaphora Reasoning Question Generation Using Entity Coreference** *Hasegawa, Kimihiro, Takaaki Matsumoto, and Teruko Mitamura.* Anaphora Reasoning Question Generation Using Entity Coreference, 2019. [paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)
+
+6. **Visual question generation as dual task of visual question answering** *Li, Yikang, et al.* CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
 2. **Learning to Ask: Neural Question Generation for Reading Comprehension** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
@@ -19,13 +29,15 @@
 
 8. **Question generation for question answering** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
+9. **Ontology-based multiple choice question generation** *Tahani Alsubait1, Bijan Parsia1, Ulrike Sattler1.*     [paper](https://link.springer.com/content/pdf/10.1007%2Fs13218-015-0405-9.pdf)
+
 9. **Towards Topic-to-Question Generation** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics, 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
 
 10. **Literature review of automatic question generation systems** *Rakangor, Sheetal, and Y. Ghodasara.*  International Journal of Scientific and Research Publications,2015. [paper](http://www.ijsrp.org/research-paper-0115/ijsrp-p3757.pdf)
 
 11. **Ontology-based multiple choice question generation** *Al-Yahya, Maha.* The Scientific World Journal, 2014. [paper](https://www.hindawi.com/journals/tswj/2014/274949/abs/) 
 
-12. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen* ACL, 2014. [paper](https://www.aclweb.org/anthology/P14-2053)
+12. **Linguistic considerations in automatic question generation** *Mazidi, Karen, and Rodney D. Nielsen.* ACL, 2014. [paper](https://www.aclweb.org/anthology/P14-2053)
 
 13. **Automatic question generation for educational applications–the state of art** *Le, Nguyen-Thinh, Tomoko Kojiri, and Niels Pinkwart.* ACMKE, 2014. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-06569-4.pdf) 
 
@@ -45,7 +57,7 @@
 
 5. **Semantics-based question generation and implementation** *Yao, Xuchen, Gosse Bouma, and Yi Zhang.*  Dialogue & Discourse,2012. [paper](http://journals.linguisticsociety.org/elanguage/dad/article/download/1439/1439-5842-1-PB.pdf) [system](http://code.google.com/p/mrsqg/) [dataset1](http://trec.nist.gov/data/qamain.html) [dataset2]( http://celct.isti.cnr.it/ResPubliQA/index.php?page=Pages/pastCampaigns.php) [dataset3](http://l2r.cs.uiuc.edu/~cogcomp/Data/QA/QC/) [dataset4](http://ir.mathcs.emory.edu/shared/)
 
-6. **Mind the gap: learning to choose gaps for question generation** *Becker, Lee, Sumit Basu, and Lucy Vanderwende* NAACL,2012. [paper](http://delivery.acm.org/10.1145/2390000/2382150/p742-becker.pdf?ip=121.249.15.170&id=2382150&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555379189_0c54ff1a69f0ba187c91fe6af5dc30ad) [dataset](http://research.microsoft.com/~sumitb/questiongeneration)
+6. **Mind the gap: learning to choose gaps for question generation** *Becker, Lee, Sumit Basu, and Lucy Vanderwende.* NAACL,2012. [paper](http://delivery.acm.org/10.1145/2390000/2382150/p742-becker.pdf?ip=121.249.15.170&id=2382150&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555379189_0c54ff1a69f0ba187c91fe6af5dc30ad) [dataset](http://research.microsoft.com/~sumitb/questiongeneration)
 
 7. **OntoQue: a question generation engine for educational assesment based on domain ontologies** *Al-Yahya, Maha.* IEEE, 2011. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5992374) 
 
@@ -55,7 +67,7 @@
 
 10. **Automatic factual question generation from text** *Heilman, Michael.* Language Technologies Institute School of Computer Science Carnegie Mellon University 2011. [paper](https://lti.cs.cmu.edu/sites/default/files/research/thesis/2011/michael_heilman_automatic_factual_question_generation_for_reading_assessment.pdf)
 
-11. **Question generation and answering** *Linnebank, Floris, Jochem Liem, and Bert Bredeweg* DynaLearn, EC FP7 STREP project,2010. [paper](https://ivi.fnwi.uva.nl/tcs/QRgroup/DynaLearn//DeliverablesPublic/D3.3.pdf)
+11. **Question generation and answering** *Linnebank, Floris, Jochem Liem, and Bert Bredeweg.* DynaLearn, EC FP7 STREP project,2010. [paper](https://ivi.fnwi.uva.nl/tcs/QRgroup/DynaLearn//DeliverablesPublic/D3.3.pdf)
 
 11. **Question generation from paragraphs at UPenn: QGSTEC system description.** *Mannem, Prashanth, Rashmi Prasad, and Aravind Joshi.* QG2010: The Third Workshop on Question Generation,2010. [paper](https://s3.amazonaws.com/academia.edu.documents/30634122/QG2010-Proceedings.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555335084&Signature=E6m0WudzGC83W02tfwTPWJjEMk4%3D&response-content-disposition=inline%3B%20filename%3DQG2010_The_Third_Workshop_on_Question_Ge.pdf#page=89)
 
@@ -73,13 +85,13 @@
 
 18. **Extracting simplified statements for factual question generation** *Heilman, Michael, and Noah A. Smith.* QG2010: The Third Workshop on Question Generation, 2010. [paper](https://oro.open.ac.uk/22343/1/QG2010-Proceedings.pdf#page=16) [system](http://www.cs.cmu.edu/~ark/mheilman/qg-2010-workshop/)
 
-19. **Good Question! Statistical Ranking for Question Generation** *Heilman, Michael and Smith, Noah A* ACL, 2010.[paper](http://delivery.acm.org/10.1145/1860000/1858085/p609-heilman.pdf?ip=121.249.15.170&id=1858085&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555327623_8e5f7f68882d1656b2670488e6b18042) [dataset1](http://en.wikipedia.org) [dataset2](http://simple.wikipedia.org)
+19. **Good Question! Statistical Ranking for Question Generation** *Heilman, Michael and Smith, Noah A.* ACL, 2010.[paper](http://delivery.acm.org/10.1145/1860000/1858085/p609-heilman.pdf?ip=121.249.15.170&id=1858085&acc=OPEN&key=BF85BBA5741FDC6E%2EEEBE655830483280%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1555327623_8e5f7f68882d1656b2670488e6b18042) [dataset1](http://en.wikipedia.org) [dataset2](http://simple.wikipedia.org)
 
 20. **Automation of question generation from sentences** *Ali, H., Chali, Y., Hasan, S. A.* QG2010: The Third Workshop on Question Generation  2010. [paper](https://s3.amazonaws.com/academia.edu.documents/30634122/QG2010-Proceedings.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1555331831&Signature=eQqkh5sgRtLlVgGcaJFHTYXip78%3D&response-content-disposition=inline%3B%20filename%3DQG2010_The_Third_Workshop_on_Question_Ge.pdf#page=63) 
 
 21. **Question Generation via Overgenerating Transformations and Ranking** *Michael Heilman, Noah A. Smith.* CARNEGIE-MELLON UNIV PITTSBURGH PA LANGUAGE TECHNOLOGIES INST, 2009. [paper](https://apps.dtic.mil/dtic/tr/fulltext/u2/a531042.pdf)
 
-26. **Automatic question generation and answer judging: a q&a game for language learning** *Yushi Xu, Anna Goldie, Stephanie Seneff* SLaTE,2009. [paper](https://www.isca-speech.org/archive/slate_2009/papers/sla9_057.pdf) 
+26. **Automatic question generation and answer judging: a q&a game for language learning** *Yushi Xu, Anna Goldie, Stephanie Seneff.* SLaTE,2009. [paper](https://www.isca-speech.org/archive/slate_2009/papers/sla9_057.pdf) 
 
 
 
