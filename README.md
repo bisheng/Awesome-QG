@@ -104,10 +104,22 @@
 
 2. **BLEU: a Method for Automatic Evaluation of Machine Translation.** *Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu.* ACL, 2002. [paper](https://www.aclweb.org/anthology/P02-1040)
 
+3. **Evaluating question answering over linked data.** *Lopez V, Unger C, Cimiano P, et al.* WWW, 2013. [paper](http://www.websemanticsjournal.org/index.php/ps/article/view/339/351)
+
+4. **The price of debiasing automatic metrics in natural language evaluation.** *Arun Tejasvi Chaganty, Stephen Mussmann, Percy Liang* arXiv, 2018. [paper](https://aclweb.org/anthology/P18-1060) [code](https://bit.ly/price-of-debiasing)
+
+5. **The Meteor metric for automatic evaluation of machine translation.** *Lavie A, Denkowski M J.* Machine translation, 2009. [paper](http://www.l2f.inesc-id.pt/~fmmb/wiki/uploads/Work/dict.refa.pdf)
+
+6. **Rouge: A package for automatic evaluation of summaries.** *Lin, Chin-Yew.* Text Summarization Branches Out, 2004. [paper](https://www.aclweb.org/anthology/W04-1013) 
 
 
 
+### Dataset
 
+---
+1. **On Generating Characteristic-rich Question Sets for QA Evaluation.** *Su Y, Sun H, Sadler B, et al.* EMNLP, 2016. [paper](https://aclweb.org/anthology/D16-1054)  [code](https://github.com/ysu1989/GraphQuestions)
+
+2. **Program induction by rationale generation: Learning to solve and explain algebraic word problems.** *Ling W, Yogatama D, Dyer C, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1705.04146.pdf)  [code](https://github.com/deepmind/AQuA)
 
 
 
