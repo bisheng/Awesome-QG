@@ -122,14 +122,17 @@
 ### Dataset
 
 ---
-1. **On Generating Characteristic-rich Question Sets for QA Evaluation.** *Su Y, Sun H, Sadler B, et al.* EMNLP, 2016. [paper](https://aclweb.org/anthology/D16-1054)  [code](https://github.com/ysu1989/GraphQuestions)
+1. **Program induction by rationale generation: Learning to solve and explain algebraic word problems.** *Ling W, Yogatama D, Dyer C, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1705.04146.pdf)  [code](https://github.com/deepmind/AQuA)
 
-2. **Program induction by rationale generation: Learning to solve and explain algebraic word problems.** *Ling W, Yogatama D, Dyer C, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1705.04146.pdf)  [code](https://github.com/deepmind/AQuA)
+2. **On Generating Characteristic-rich Question Sets for QA Evaluation.** *Su Y, Sun H, Sadler B, et al.* EMNLP, 2016. [paper](https://aclweb.org/anthology/D16-1054)  [code](https://github.com/ysu1989/GraphQuestions)
 
+3. **Squad: 100,000+ questions for machine comprehension of text.** *Rajpurkar P, Zhang J, Lopyrev K, et al.* arXiv, 2016. [paper](https://arxiv.org/pdf/1606.05250.pdf) [dataset](https://stanford-qa.com)
 
+4. **Who did what: A large-scale person-centered cloze dataset** *Onishi T, Wang H, Bansal M, et al.* arXiv, 2016. [paper](https://arxiv.org/pdf/1608.05457.pdf) [dataset](https://tticnlp.github.io/who_did_what)
 
+5. **Teaching machines to read and comprehend** *Hermann K M, Kocisky T, Grefenstette E, et al.* NIPS, 2015. [paper](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf) [code](http://www.github.com/deepmind/rc-data/)
 
-
+6. **Mctest: A challenge dataset for the open-domain machine comprehension of text.** *Richardson M, Burges C J C, and Renshaw E.* EMNLP, 2013. [paper](https://www.aclweb.org/anthology/D13-1020)  [dataset](http://research.microsoft.com/mct)
 
 
 
