@@ -9,11 +9,9 @@
 
 2. **Joint Learning of Question Answering and Question Generation.** *Sun Y, Tang D, Duan N, et al.*  IEEE, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8636251) [dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
 
-3. **Authentication Using Dynamic Question Generation.** *Siddavatam I, Khatri D, Ashar P, et al.* Integrated Intelligent Computing, Communication and Security, 2019. [paper](https://link.springer.com/chapter/10.1007/978-981-10-8797-4_31)
-
 4. **Domain-specific question-answer pair generation.** *Beason W A, Chandrasekaran S, Gattiker A E, et al.*  Google Patents, 2019. [paper](https://patentimages.storage.googleapis.com/52/99/67/704ea56473675d/US10170014.pdf)
 
-5. **Anaphora Reasoning Question Generation Using Entity Coreference.** *Hasegawa, Kimihiro, Takaaki Matsumoto, and Teruko Mitamura.* Anaphora Reasoning Question Generation Using Entity Coreference, 2019. [paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)
+5. **Anaphora Reasoning Question Generation Using Entity Coreference.** *Hasegawa, Kimihiro, Takaaki Matsumoto, and Teruko Mitamura.*  2019. [paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)
 
 6. **Visual question generation as dual task of visual question answering.** *Li, Yikang, et al.* CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
