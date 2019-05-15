@@ -5,6 +5,8 @@
 ---
 1. **Information Maximizing Visual Question Generation.** *Krishna, Ranjay, Bernstein, Michael, Fei-Fei, Li.* arXiv, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf) 
 
+2. **Learning to Generate Questions by Learning What not to Generate.** *Liu B, Zhao M, Niu D, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf)
+
 2. **Joint Learning of Question Answering and Question Generation.** *Sun Y, Tang D, Duan N, et al.*  IEEE, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8636251) [dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
 
 3. **Authentication Using Dynamic Question Generation.** *Siddavatam I, Khatri D, Ashar P, et al.* Integrated Intelligent Computing, Communication and Security, 2019. [paper](https://link.springer.com/chapter/10.1007/978-981-10-8797-4_31)
@@ -15,6 +17,13 @@
 
 6. **Visual question generation as dual task of visual question answering.** *Li, Yikang, et al.* CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
+7. **Answer-focused and Position-aware Neural Question Generation.** *Sun X, Liu J, Lyu Y, et al.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
+
+8. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1809.02393.pdf)
+
+9. **Question Generation using a Scratchpad Encoder.** *Benmalek R Y, Khabsa M, Desu S, et al.* 2018. [pdf](https://openreview.net/pdf?id=HklAhi09Y7)
+
+10. **Learning to collaborate for question answering and asking.** *Tang D, Duan N, Yan Z, et al.* NAACL, 2018. [pdf](https://www.aclweb.org/anthology/N18-1141)
 2. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 3. **Neural question generation from text: A preliminary study.** *Zhou, Qingyu, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
@@ -30,6 +39,8 @@
 8. **Question generation for question answering.** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
 9. **Ranking automatically generated questions using common human queries.** *Chali Y, Golestanirad S.* INLG, 2016. [paper](https://www.aclweb.org/anthology/W16-6635) 
+
+9. **Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.** *Serban I V, García-Durán A, Gulcehre C, et al.* arXiv, 2016. [paper](https://arxiv.org/pdf/1603.06807.pdf) [dataset](https://www.agarciaduran.org)
 
 9. **Towards Topic-to-Question Generation.** *XYllias Chali, Sadid A. Hasan.* Computational Linguistics, 2015. [paper](https://www.aclweb.org/anthology/J15-1001) 
 
@@ -134,6 +145,7 @@
 
 6. **Mctest: A challenge dataset for the open-domain machine comprehension of text.** *Richardson M, Burges C J C, and Renshaw E.* EMNLP, 2013. [paper](https://www.aclweb.org/anthology/D13-1020)  [dataset](http://research.microsoft.com/mct)
 
+7. **The Value of Semantic Parse Labeling for Knowledge Base Question Answering.** *Yih W, Richardson M, Meek C, et al.* [paper](https://www.aclweb.org/anthology/P16-2033) [dataset](http://aka.ms/WebQSP)
 
 
 
