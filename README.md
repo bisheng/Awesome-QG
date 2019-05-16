@@ -19,9 +19,10 @@
 
 8. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1809.02393.pdf)
 
-9. **Question Generation using a Scratchpad Encoder.** *Benmalek R Y, Khabsa M, Desu S, et al.* 2018. [pdf](https://openreview.net/pdf?id=HklAhi09Y7)
+9. **Question Generation using a Scratchpad Encoder.** *Benmalek R Y, Khabsa M, Desu S, et al.* 2018. [paper](https://openreview.net/pdf?id=HklAhi09Y7)
 
-10. **Learning to collaborate for question answering and asking.** *Tang D, Duan N, Yan Z, et al.* NAACL, 2018. [pdf](https://www.aclweb.org/anthology/N18-1141)
+10. **Learning to collaborate for question answering and asking.** *Tang D, Duan N, Yan Z, et al.* NAACL, 2018. [paper](https://www.aclweb.org/anthology/N18-1141)
+
 2. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 3. **Neural question generation from text: A preliminary study.** *Zhou, Qingyu, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
@@ -143,9 +144,9 @@
 
 6. **Mctest: A challenge dataset for the open-domain machine comprehension of text.** *Richardson M, Burges C J C, and Renshaw E.* EMNLP, 2013. [paper](https://www.aclweb.org/anthology/D13-1020)  [dataset](http://research.microsoft.com/mct)
 
-7. **The Value of Semantic Parse Labeling for Knowledge Base Question Answering.** *Yih W, Richardson M, Meek C, et al.* [paper](https://www.aclweb.org/anthology/P16-2033) [dataset](http://aka.ms/WebQSP)
+7. **The Value of Semantic Parse Labeling for Knowledge Base Question Answering.** *Yih W, Richardson M, Meek C, et al.* ACL, 2016. [paper](https://www.aclweb.org/anthology/P16-2033) [dataset](http://aka.ms/WebQSP)
 
-
+8. **Semantic Parsing on Freebase from Question-Answer Pairs.** *Berant J, Chou A, Frostig R, et al.* EMNLP, 2013. [paper](https://www.aclweb.org/anthology/D13-1160)
 
 
 
