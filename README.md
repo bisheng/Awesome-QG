@@ -13,11 +13,25 @@
 
 5. **Anaphora Reasoning Question Generation Using Entity Coreference.** *Hasegawa, Kimihiro, Takaaki Matsumoto, and Teruko Mitamura.*  2019. [paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)
 
-6. **Visual question generation as dual task of visual question answering.** *Li, Yikang, et al.* CVPR, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
+6. **Visual question generation as dual task of visual question answering.** *Li Y, Duan N, Zhou B, et al.* IEEE, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
 7. **Answer-focused and Position-aware Neural Question Generation.** *Sun X, Liu J, Lyu Y, et al.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
 
 8. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1809.02393.pdf)
+
+9. **Automatic Question Generation using Relative Pronouns and Adverbs.** *Khullar P, Rachna K, Hase M, et al.* ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-3022)
+
+9. **Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information** *Rao S, Daumé III H.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.04655.pdf)
+
+9. **Soft layer-specific multi-task summarization with entailment and question generation.** *Guo H, Pasunuru R, Bansal M.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.11004.pdf)
+
+9. **Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders.** *Wang Y, Liu C, Huang M, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.04843.pdf) [code](https://github.com/victorywys/Learning2Ask_TypedDecoder) [dataset]( http://coai.cs.tsinghua.edu.cn/hml/dataset/)
+
+9. **Did the model understand the question?** *Mudrakarta P K, Taly A, Sundararajan M, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.05492.pdf) [code](https://github.com/pramodkaushik/acl18_results) [dataset](https://worksheets.codalab.org/worksheets/0xc86d3ebe69a3427d91f9aaa63f7d1e7d/) 
+
+9. **Know What You Don't Know: Unanswerable Questions for SQuAD.** *Rajpurkar P, Jia R, Liang P.* arXiv, 2018. [paper](https://arxiv.org/pdf/1806.03822.pdf) [code&dataset]( https://bit.ly/2rDHBgY)
+
+9. **Harvesting paragraph-level question-answer pairs from wikipedia.** *Du X and Cardie C.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.05942.pdf) [code&dataset](https://github.com/xinyadu/HarvestingQA)
 
 8. **Teaching Machines to Ask Questions.** *Kaichun Yao, Libo Zhang, Tiejian Luo, et al.* IJCAI, 2018. [paper](https://www.ijcai.org/proceedings/2018/0632.pdf)
 
@@ -27,17 +41,17 @@
 
 11. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
-12. **Neural question generation from text: A preliminary study.** *Zhou, Qingyu, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
+12. **Neural question generation from text: A preliminary study.** *Zhou Q, Yang N, Wei F, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
 
-13. **Question answering and question generation as dual tasks.** *Tang, Duyu, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.02027.pdf)
+13. **Question answering and question generation as dual tasks.** *Tang D, Duan N, Qin T, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.02027.pdf)
 
 14. **A joint model for question answering and question generation.** *Wang, Tong, Xingdi Yuan, and Adam Trischler.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.01450.pdf)
 
-15. **Neural models for key phrase detection and question generation.** *Subramanian, Sandeep, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.04560.pdf)
+15. **Neural models for key phrase detection and question generation.** *Subramanian S, Wang T, Yuan X, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.04560.pdf)
 
-16. **Machine comprehension by text-to-text neural question generation.** *Yuan, Xingdi, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
+16. **Machine comprehension by text-to-text neural question generation.** *Yuan X, Wang T, Gulcehre C, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1705.02012.pdf)
 
-17. **Question generation for question answering.** *Duan, Nan, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
+17. **Question generation for question answering.** *Duan N, Tang D, Chen P, et al.* EMNLP,2017. [paper](https://www.aclweb.org/anthology/D17-1090)
 
 18. **Ranking automatically generated questions using common human queries.** *Chali Y, Golestanirad S.* INLG, 2016. [paper](https://www.aclweb.org/anthology/W16-6635) 
 
