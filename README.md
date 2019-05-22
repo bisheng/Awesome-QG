@@ -41,9 +41,9 @@
 
 11. **A Question Type Driven Framework to Diversify Visual Question Generation** *Zhihao Fan, Zhongyu Wei, Piji Li, et al.* IJCAI,2018. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/fan-ijcai2018.pdf)
 
-11. **Neural Generation of Diverse Questions using Answer Focus, Contextual and Linguistic Features.** *Harrison V, Walker M.* arXiv,2018. [paper](https://arxiv.org/abs/1809.02637)
+12. **Neural Generation of Diverse Questions using Answer Focus, Contextual and Linguistic Features.** *Harrison V, Walker M.* arXiv,2018. [paper](https://arxiv.org/abs/1809.02637)
 
-11. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
+13. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 12. **Neural question generation from text: A preliminary study.** *Zhou Q, Yang N, Wei F, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
 
