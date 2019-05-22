@@ -39,11 +39,17 @@
 
 10. **Learning to collaborate for question answering and asking.** *Tang D, Duan N, Yan Z, et al.* NAACL, 2018. [paper](https://www.aclweb.org/anthology/N18-1141)
 
+11. **A Question Type Driven Framework to Diversify Visual Question Generation** *Zhihao Fan, Zhongyu Wei, Piji Li, et al.* IJCAI,2018. [paper](http://www.sdspeople.fudan.edu.cn/zywei/paper/fan-ijcai2018.pdf)
+
+11. **Neural Generation of Diverse Questions using Answer Focus, Contextual and Linguistic Features.** *Harrison V, Walker M.* arXiv,2018. [paper](https://arxiv.org/abs/1809.02637)
+
 11. **Learning to Ask: Neural Question Generation for Reading Comprehension.** *Xinya Du, Junru Shao, Claire Cardie.* ACL, 2017. [paper](https://www.aclweb.org/anthology/P17-1123) [code](https://github.com/xinyadu/nqg)
 
 12. **Neural question generation from text: A preliminary study.** *Zhou Q, Yang N, Wei F, et al.* NLPCC, 2017. [paper](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73618-1_56.pdf)
 
 13. **Question answering and question generation as dual tasks.** *Tang D, Duan N, Qin T, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.02027.pdf)
+
+14. **Creativity: Generating diverse questions using variational autoencoders.** *Jain U, Zhang Z, Schwing A G.* IEEE,2017. [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jain_Creativity_Generating_Diverse_CVPR_2017_paper.pdf)
 
 14. **A joint model for question answering and question generation.** *Wang, Tong, Xingdi Yuan, and Adam Trischler.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.01450.pdf)
 
