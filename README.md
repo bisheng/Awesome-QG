@@ -3,6 +3,8 @@
 ### 2014-2019
 
 ---
+1. **Answer-based Adversarial Training for Generating Clarification Questions.** *Rao S, Daumé III H.* arXiv, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+
 1. **Information Maximizing Visual Question Generation.** *Krishna, Ranjay, Bernstein, Michael, Fei-Fei, Li.* arXiv, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf) 
 
 2. **Learning to Generate Questions by Learning What not to Generate.** *Liu B, Zhao M, Niu D, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf)
@@ -139,15 +141,17 @@
 ---
 1. **Unifying Human and Statistical Evaluation for Natural Language Generation.** *Tatsunori B. Hashimoto, Hugh Zhang, Percy Liang.* NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02792.pdf) [code](https://github.com/hughbzhang/HUSE)
 
-2. **BLEU: a Method for Automatic Evaluation of Machine Translation.** *Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu.* ACL, 2002. [paper](https://www.aclweb.org/anthology/P02-1040)
+2. **Evaluating Rewards for Question Generation Models.** *Hosking T, Riedel S.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
 
-3. **Evaluating question answering over linked data.** *Lopez V, Unger C, Cimiano P, et al.* WWW, 2013. [paper](http://www.websemanticsjournal.org/index.php/ps/article/view/339/351)
+3. **The price of debiasing automatic metrics in natural language evaluation.** *Arun Tejasvi Chaganty, Stephen Mussmann, Percy Liang* arXiv, 2018. [paper](https://aclweb.org/anthology/P18-1060) [code](https://bit.ly/price-of-debiasing)
 
-4. **The price of debiasing automatic metrics in natural language evaluation.** *Arun Tejasvi Chaganty, Stephen Mussmann, Percy Liang* arXiv, 2018. [paper](https://aclweb.org/anthology/P18-1060) [code](https://bit.ly/price-of-debiasing)
+4. **BLEU: a Method for Automatic Evaluation of Machine Translation.** *Kishore Papineni, Salim Roukos, Todd Ward, Wei-Jing Zhu.* ACL, 2002. [paper](https://www.aclweb.org/anthology/P02-1040)
 
-5. **The Meteor metric for automatic evaluation of machine translation.** *Lavie A, Denkowski M J.* Machine translation, 2009. [paper](http://www.l2f.inesc-id.pt/~fmmb/wiki/uploads/Work/dict.refa.pdf)
+5. **Evaluating question answering over linked data.** *Lopez V, Unger C, Cimiano P, et al.* WWW, 2013. [paper](http://www.websemanticsjournal.org/index.php/ps/article/view/339/351)
 
-6. **Rouge: A package for automatic evaluation of summaries.** *Lin, Chin-Yew.* Text Summarization Branches Out, 2004. [paper](https://www.aclweb.org/anthology/W04-1013) 
+6. **The Meteor metric for automatic evaluation of machine translation.** *Lavie A, Denkowski M J.* Machine translation, 2009. [paper](http://www.l2f.inesc-id.pt/~fmmb/wiki/uploads/Work/dict.refa.pdf)
+
+7. **Rouge: A package for automatic evaluation of summaries.** *Lin, Chin-Yew.* Text Summarization Branches Out, 2004. [paper](https://www.aclweb.org/anthology/W04-1013) 
 
 
 
