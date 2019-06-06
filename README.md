@@ -23,7 +23,7 @@
 
 9. **Automatic Question Generation using Relative Pronouns and Adverbs.** *Khullar P, Rachna K, Hase M, et al.* ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-3022)
 
-9. **Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information** *Rao S, Daumé III H.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.04655.pdf)
+9. **Learning to ask good questions: Ranking clarification questions using neural expected value of perfect information** *Rao S, Daumé III H.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.04655.pdf) [dataset](https://github.com/raosudha89/ranking_clarification_questions)
 
 9. **Soft layer-specific multi-task summarization with entailment and question generation.** *Guo H, Pasunuru R, Bansal M.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.11004.pdf)
 
