@@ -27,6 +27,8 @@
 
 9. **Soft layer-specific multi-task summarization with entailment and question generation.** *Guo H, Pasunuru R, Bansal M.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.11004.pdf)
 
+9. **Leveraging context information for natural question generation** *Song L, Wang Z, Hamza W, et al.* ACL, 2018. [paper](https://www.aclweb.org/anthology/N18-2090) [code](https://github.com/freesunshine0316/MPQG)
+
 9. **Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders.** *Wang Y, Liu C, Huang M, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.04843.pdf) [code](https://github.com/victorywys/Learning2Ask_TypedDecoder) [dataset]( http://coai.cs.tsinghua.edu.cn/hml/dataset/)
 
 9. **Did the model understand the question?** *Mudrakarta P K, Taly A, Sundararajan M, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.05492.pdf) [code](https://github.com/pramodkaushik/acl18_results) [dataset](https://worksheets.codalab.org/worksheets/0xc86d3ebe69a3427d91f9aaa63f7d1e7d/) 
