@@ -15,11 +15,11 @@
 
 5. **Anaphora Reasoning Question Generation Using Entity Coreference.** *Hasegawa, Kimihiro, Takaaki Matsumoto, and Teruko Mitamura.*  2019. [paper](http://www.anlp.jp/proceedings/annual_meeting/2019/pdf_dir/P5-18.pdf)
 
+6. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf)
+
 6. **Visual question generation as dual task of visual question answering.** *Li Y, Duan N, Zhou B, et al.* IEEE, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
 7. **Answer-focused and Position-aware Neural Question Generation.** *Sun X, Liu J, Lyu Y, et al.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
-
-8. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1809.02393.pdf)
 
 9. **Automatic Question Generation using Relative Pronouns and Adverbs.** *Khullar P, Rachna K, Hase M, et al.* ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-3022)
 
