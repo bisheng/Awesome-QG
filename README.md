@@ -3,11 +3,33 @@
 ### 2014-2019
 
 ---
-1. **Answer-based Adversarial Training for Generating Clarification Questions.** *Rao S, Daumé III H.* arXiv, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+1. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
 
-1. **Information Maximizing Visual Question Generation.** *Krishna, Ranjay, Bernstein, Michael, Fei-Fei, Li.* arXiv, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf) 
+2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** *Yifan Gao, Piji Li, Irwin King, et al.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
 
-2. **Learning to Generate Questions by Learning What not to Generate.** *Liu B, Zhao M, Niu D, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf)
+3. **Cross-Lingual Training for Automatic Question Generation.** *Kumar V, Joshi N, Mukherjee A, et al.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02525.pdf) [dataset](https://www.cse.iitb.ac.in/̃ganesh/HiQuAD/clqg/)
+
+4. **Multi-hop Reading Comprehension through Question Decomposition and Rescoring.** *Sewon Min, Victor Zhong, Luke Zettlemoyer, et al.* ACL, 2019. [paper](https://arxiv.org/abs/1906.02916)
+
+5. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension.** *Haichao Zhu, Li Dong, Furu Wei, et al.* ACL, 2019. [paper]()
+
+6. **Reinforced Dynamic Reasoning for Conversational Question Generation.** *Boyuan Pan, Hao Li, Ziyu Yao, et al.* ACL, 2019. [paper]()
+
+7. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** *Zi Chai, Xinyu Xing, Xiaojun Wan, et al.* ACL, 2019. [paper]()
+
+8. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** *Thomas Scialom, Benjamin Piwowarski and Jacopo Staiano.* ACL, 2019. [paper]()
+
+9. **Evaluating Rewards for Question Generation Models.** *Tom Hosking and Sebastian Riedel.* NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
+
+10. **Difficulty controllable question generation for reading comprehension.** *Gao Y, Wang J, Bing L, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf) 
+
+11. **Weak Supervision Enhanced Generative Network for Question Generation.** *Yutong Wang, Jiyuan Zheng, Qijiong Liu, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1907.00607v1)
+
+2. **Answer-based Adversarial Training for Generating Clarification Questions.** *Rao S, Daumé III H.* NAACL, 2019. [paper](https://arxiv.org/pdf/1904.02281.pdf) [code](https://github.com/raosudha89/clarification_question_generation_pytorch)
+
+3. **Information Maximizing Visual Question Generation.** *Krishna, Ranjay, Bernstein, Michael, Fei-Fei, Li.* arXiv, 2019. [paper](https://arxiv.org/pdf/1903.11207.pdf) 
+
+2. **Learning to Generate Questions by Learning What not to Generate.** *Liu B, Zhao M, Niu D, et al.* WWW, 2019. [paper](https://arxiv.org/pdf/1902.10418.pdf)
 
 2. **Joint Learning of Question Answering and Question Generation.** *Sun Y, Tang D, Duan N, et al.*  IEEE, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8636251) [dataset](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs)
 
