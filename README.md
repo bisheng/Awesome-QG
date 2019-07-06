@@ -39,7 +39,7 @@
 
 6. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf)
 
-6. **A novel framework for Automatic Chinese Question Generation based on multi-feature neural network mode** *Zheng H T, Han J, Chen J Y, et al.*  Comput. Sci. Inf. Syst., 2018. [paper]()
+6. **A novel framework for Automatic Chinese Question Generation based on multi-feature neural network mode** *Zheng H T, Han J, Chen J Y, et al.*  Comput. Sci. Inf. Syst., 2018. [paper](http://elib.mi.sanu.ac.rs/files/journals/csis/45/csisn45p487-499.pdf)
 
 6. **Visual question generation as dual task of visual question answering.** *Li Y, Duan N, Zhou B, et al.* IEEE, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
 
