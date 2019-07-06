@@ -11,13 +11,13 @@
 
 4. **Multi-hop Reading Comprehension through Question Decomposition and Rescoring.** *Sewon Min, Victor Zhong, Luke Zettlemoyer, et al.* ACL, 2019. [paper](https://arxiv.org/abs/1906.02916)
 
-5. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension.** *Haichao Zhu, Li Dong, Furu Wei, et al.* ACL, 2019. [paper]()
+5. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension.** *Haichao Zhu, Li Dong, Furu Wei, et al.* ACL, 2019. 
 
-6. **Reinforced Dynamic Reasoning for Conversational Question Generation.** *Boyuan Pan, Hao Li, Ziyu Yao, et al.* ACL, 2019. [paper]()
+6. **Reinforced Dynamic Reasoning for Conversational Question Generation.** *Boyuan Pan, Hao Li, Ziyu Yao, et al.* ACL, 2019. 
 
-7. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** *Zi Chai, Xinyu Xing, Xiaojun Wan, et al.* ACL, 2019. [paper]()
+7. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** *Zi Chai, Xinyu Xing, Xiaojun Wan, et al.* ACL, 2019. 
 
-8. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** *Thomas Scialom, Benjamin Piwowarski and Jacopo Staiano.* ACL, 2019. [paper]()
+8. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** *Thomas Scialom, Benjamin Piwowarski and Jacopo Staiano.* ACL, 2019. 
 
 9. **Evaluating Rewards for Question Generation Models.** *Tom Hosking and Sebastian Riedel.* NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
 
