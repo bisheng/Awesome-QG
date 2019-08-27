@@ -13,7 +13,7 @@
 
 5. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension.** *Haichao Zhu, Li Dong, Furu Wei, et al.* ACL, 2019. 
 
-6. **Reinforced Dynamic Reasoning for Conversational Question Generation.** *Boyuan Pan, Hao Li, Ziyu Yao, et al.* ACL, 2019. 
+6. **Reinforced Dynamic Reasoning for Conversational Question Generation.** *Boyuan Pan, Hao Li, Ziyu Yao, et al.* ACL, 2019. [paper](https://www.aclweb.org/anthology/P19-1203) [code](https://github.com/ZJULearning/ReDR) [dataset](https://stanfordnlp.github.io/coqa/)
 
 7. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** *Zi Chai, Xinyu Xing, Xiaojun Wan, et al.* ACL, 2019. 
 
