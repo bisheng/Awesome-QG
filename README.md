@@ -2,12 +2,39 @@
 
 ### KBQG
 
+---
+### 2014-2019
 
 ---
+1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
+
+2. **Difficulty-level Modeling of Ontology-based Factual Questions.** 
+
+3. **Question Difficulty Estimation in Community Question Answering Services.**
+
+4. **Domain-specific question generation from a knowledge base.**
+
+5. **Generating Quiz Questions from knowledge graphs.**
+
+6. **Knowledge Questions from Knowledge Graphs.**
+
+7. **Question Generation from a Knowledge Base with Web Exploration.**
+
+8. **Question generation from a knowledge base.**
+
+9. **Question generation from concept maps.**
+
+### 2008-2013
+
+---
+1. **A similarity-based theory of controlling MCQ difficulty.** *Tahani Alsubait, Bijan Parsia, Ulrike Sattler* IEEE, 2013. [paper](https://www.academia.edu/23715119/A_Similarity-based_Theory_of_Controlling_MCQ_Difficulty)
+
 
 ### 2014-2019
 
 ---
+1. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Yifan Gao, Lidong Bing, Wang Chen, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)
+
 1. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
 
 2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** *Yifan Gao, Piji Li, Irwin King, et al.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
