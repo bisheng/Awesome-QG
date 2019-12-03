@@ -8,27 +8,26 @@
 ---
 1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
 
-2. **Difficulty-level Modeling of Ontology-based Factual Questions.** 
+2. **Difficulty-level Modeling of Ontology-based Factual Questions.** *Venugopal V E, Kumar P S.* Semantic Web journal, 2017. [paper](http://semantic-web-journal.org/system/files/swj1898.pdf)
 
-3. **Question Difficulty Estimation in Community Question Answering Services.**
+3. **Knowledge Questions from Knowledge Graphs.** *Seyler D, Yahya M, Berberich K.* ACM SIGIR, 2017. [paper](https://arxiv.org/pdf/1610.09935.pdf)
 
-4. **Domain-specific question generation from a knowledge base.**
+4. **Domain-specific question generation from a knowledge base.** *Song L, Zhao L.*  arXiv, 2016. [paper](https://pdfs.semanticscholar.org/7a57/d3baf7e303390cd2becd26179f2bd596f7ea.pdf) [dataset](http://agarciaduran.org/)
 
-5. **Generating Quiz Questions from knowledge graphs.**
+5. **Question Generation from a Knowledge Base with Web Exploration.** *Song L, Zhao L.* arXiv, 2016. [paper](https://arxiv.org/pdf/1610.03807.pdf)
 
-6. **Knowledge Questions from Knowledge Graphs.**
+6. **Generating Quiz Questions from knowledge graphs.** *Seyler D, Yahya M, Berberich K.* WWW, 2015. [paper](https://myahya.org/publications/quiz-questions-from-kb-www2015.pdf)
 
-7. **Question Generation from a Knowledge Base with Web Exploration.**
-
-8. **Question generation from a knowledge base.**
-
-9. **Question generation from concept maps.**
-
+7. **Question generation from a knowledge base.** *Chaudhri V K, Clark P E, Overholtzer A, et al.* KEKM, 2014. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-13704-9_5)
 
 ### 2008-2013
 
 ---
 1. **A similarity-based theory of controlling MCQ difficulty.** *Tahani Alsubait, Bijan Parsia, Ulrike Sattler* IEEE, 2013. [paper](https://www.academia.edu/23715119/A_Similarity-based_Theory_of_Controlling_MCQ_Difficulty)
+
+2. **Question Difficulty Estimation in Community Question Answering Services.** *Liu J, Wang Q, Lin C Y, et al.* EMNLP, 2013. [paper](https://www.aclweb.org/anthology/D13-1009.pdf)
+
+3. **Question generation from concept maps.** *Olney A M, Graesser A C, Person N K.* Dialogue & Discourse, 2012. [paper](http://journals.linguisticsociety.org/elanguage/dad/article/download/1480/1480-5849-1-PB.pdf)
 
 
 ### 2014-2019
