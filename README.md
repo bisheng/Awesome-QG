@@ -2,7 +2,6 @@
 
 ### KBQG
 
----
 ### 2014-2019
 
 ---
@@ -29,6 +28,7 @@
 
 3. **Question generation from concept maps.** *Olney A M, Graesser A C, Person N K.* Dialogue & Discourse, 2012. [paper](http://journals.linguisticsociety.org/elanguage/dad/article/download/1480/1480-5849-1-PB.pdf)
 
+---
 
 ### 2014-2019
 
