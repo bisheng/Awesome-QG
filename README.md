@@ -7,7 +7,23 @@
 ---
 1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
 
+2. **Difficulty controllable generation of reading comprehension questions.** *Gao Y, Bing L, Chen W, et al.* IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/0690.pdf)
+
+3. **Improving Neural Question Generation using World Knowledge.** *Gupta D, Suleman K, Adada M, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
+
+3. **Leveraging knowledge bases in lstms for improving machine reading.** *Yang B, Mitchell T.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.09091.pdf)
+
+2. **Automatic Question Generation based on MOOC Video Subtitles and Knowledge Graph.** *Ma L, Ma Y.* ACM, 2019. [paper](https://dl.acm.org/citation.cfm?doid=3323771.3323820)
+
+3. **Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types.** *Hady Elsahar, Christophe Gravier, Frederique Laforest* NAACL, 2018. [paper](https://arxiv.org/pdf/1802.06842.pdf) [code](4https://github.com/NAACL2018Anonymous/submission)
+
+3. **A Neural Question Generation System Based on Knowledge Base** *Wang H, Zhang X, Wang H.* NLPCC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_12)
+
+4. **Formal query generation for question answering over knowledge bases.** *Zafar H, Napolitano G, Lehmann J.* ESWC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-93417-4_46)
+
 2. **Difficulty-level Modeling of Ontology-based Factual Questions.** *Venugopal V E, Kumar P S.* Semantic Web journal, 2017. [paper](http://semantic-web-journal.org/system/files/swj1898.pdf)
+
+3. **Generating natural language question-answer pairs from a knowledge graph using a rnn based question generation model.** *Reddy S, Raghu D, Khapra M M, et al.* ACL, 2017. [paper](https://www.aclweb.org/anthology/E17-1036/)
 
 3. **Knowledge Questions from Knowledge Graphs.** *Seyler D, Yahya M, Berberich K.* ACM SIGIR, 2017. [paper](https://arxiv.org/pdf/1610.09935.pdf)
 
@@ -34,6 +50,10 @@
 
 ---
 1. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Yifan Gao, Lidong Bing, Wang Chen, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)
+
+2. **SAC-Net: Stroke-Aware Copy Network for Chinese Neural Question Generation.** *Li W, Kang Q, Xu B, et al.* IEEE, 2019. [paper](https://ieeexplore.ieee.org/abstract/document/8914614)
+
+1. **Distant Supervised Why-Question Generation with Passage Self-Matching Attention.** *Hu J, Li Z, Wu R, et al.* IJCNN, 2019. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8851781)
 
 1. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
 
@@ -73,7 +93,11 @@
 
 6. **A novel framework for Automatic Chinese Question Generation based on multi-feature neural network mode** *Zheng H T, Han J, Chen J Y, et al.*  Comput. Sci. Inf. Syst., 2018. [paper](http://elib.mi.sanu.ac.rs/files/journals/csis/45/csisn45p487-499.pdf)
 
+6. **Automatic opinion question generation.** *Chali Y, Baghaee T.* ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
+
 6. **Visual question generation as dual task of visual question answering.** *Li Y, Duan N, Zhou B, et al.* IEEE, 2018. [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Visual_Question_Generation_CVPR_2018_paper.pdf)
+
+7. **QG-net: a data-driven question generation model for educational content.** *Wang Z, Lan A S, Nie W, et al.* ACM, 2018. [paper](https://par.nsf.gov/servlets/purl/10073281)
 
 7. **Answer-focused and Position-aware Neural Question Generation.** *Sun X, Liu J, Lyu Y, et al.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1427)
 
@@ -90,6 +114,8 @@
 9. **Did the model understand the question?** *Mudrakarta P K, Taly A, Sundararajan M, et al.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.05492.pdf) [code](https://github.com/pramodkaushik/acl18_results) [dataset](https://worksheets.codalab.org/worksheets/0xc86d3ebe69a3427d91f9aaa63f7d1e7d/) 
 
 9. **Know What You Don't Know: Unanswerable Questions for SQuAD.** *Rajpurkar P, Jia R, Liang P.* arXiv, 2018. [paper](https://arxiv.org/pdf/1806.03822.pdf) [code&dataset]( https://bit.ly/2rDHBgY)
+
+9. **Paragraph-level neural question generation with maxout pointer and gated self-attention networks.** *Zhao Y, Ni X, Ding Y, et al.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1424.pdf)
 
 9. **Harvesting paragraph-level question-answer pairs from wikipedia.** *Du X and Cardie C.* arXiv, 2018. [paper](https://arxiv.org/pdf/1805.05942.pdf) [code&dataset](https://github.com/xinyadu/HarvestingQA)
 
@@ -109,7 +135,11 @@
 
 13. **Question answering and question generation as dual tasks.** *Tang D, Duan N, Qin T, et al.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.02027.pdf)
 
+14. **A syntactic approach to domain-specific automatic question generation.** *Danon G, Last M.* arXiv, 2017. [paper](https://arxiv.org/pdf/1712.09827.pdf%20http://arxiv.org/abs/1712.09827.pdf)
+
 14. **Creativity: Generating diverse questions using variational autoencoders.** *Jain U, Zhang Z, Schwing A G.* IEEE,2017. [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Jain_Creativity_Generating_Diverse_CVPR_2017_paper.pdf)
+
+14. **Automatic chinese factual question generation.** *Liu M, Rus V, Liu L.* IEEE, 2016. [paper](https://ieeexplore.ieee.org/abstract/document/7467571)
 
 14. **A joint model for question answering and question generation.** *Wang, Tong, Xingdi Yuan, and Adam Trischler.* arXiv, 2017. [paper](https://arxiv.org/pdf/1706.01450.pdf)
 
