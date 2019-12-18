@@ -5,9 +5,11 @@
 ### 2014-2019
 
 ---
+1. **How Question Generation Can Help Question Answering over Knowledge Base.** *Hu S, Zou L, Zhu Z.* NLPCC, 2019. [paper](http://tcci.ccf.org.cn/conference/2019/papers/183.pdf)
+
 1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
 
-2. **Difficulty controllable generation of reading comprehension questions.** *Gao Y, Bing L, Chen W, et al.* IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/0690.pdf)
+2. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Gao Y, Bing L, Chen W, et al.* IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/0690.pdf)
 
 3. **Improving Neural Question Generation using World Knowledge.** *Gupta D, Suleman K, Adada M, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
 
@@ -115,7 +117,7 @@
 
 6. **Improving Neural Question Generation using Answer Separation.** *Kim Y, Lee H, Shin J, et al.* AAAI, 2019. [paper](https://arxiv.org/pdf/1809.02393.pdf)
 
-6. **A novel framework for Automatic Chinese Question Generation based on multi-feature neural network mode** *Zheng H T, Han J, Chen J Y, et al.*  Comput. Sci. Inf. Syst., 2018. [paper](http://elib.mi.sanu.ac.rs/files/journals/csis/45/csisn45p487-499.pdf)
+6. **A novel framework for Automatic Chinese Question Generation based on multi-feature neural network mode.** *Zheng H T, Han J, Chen J Y, et al.*  Comput. Sci. Inf. Syst., 2018. [paper](http://elib.mi.sanu.ac.rs/files/journals/csis/45/csisn45p487-499.pdf)
 
 6. **Automatic opinion question generation.** *Chali Y, Baghaee T.* ICNLG, 2018. [paper](https://www.aclweb.org/anthology/W18-6518.pdf)
 
