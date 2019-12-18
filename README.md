@@ -15,7 +15,7 @@
 
 2. **Automatic Question Generation based on MOOC Video Subtitles and Knowledge Graph.** *Ma L, Ma Y.* ACM, 2019. [paper](https://dl.acm.org/citation.cfm?doid=3323771.3323820)
 
-3. **Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types.** *Hady Elsahar, Christophe Gravier, Frederique Laforest* NAACL, 2018. [paper](https://arxiv.org/pdf/1802.06842.pdf) [code](4https://github.com/NAACL2018Anonymous/submission)
+3. **Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates and Entity Types.** *Hady Elsahar, Christophe Gravier, Frederique Laforest.* NAACL, 2018. [paper](https://arxiv.org/pdf/1802.06842.pdf) [code](4https://github.com/NAACL2018Anonymous/submission)
 
 3. **A Neural Question Generation System Based on Knowledge Base** *Wang H, Zhang X, Wang H.* NLPCC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_12)
 
