@@ -9,8 +9,6 @@
 
 1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
 
-2. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Gao Y, Bing L, Chen W, et al.* IJCAI, 2019. [paper](https://www.ijcai.org/proceedings/2019/0690.pdf)
-
 3. **Improving Neural Question Generation using World Knowledge.** *Gupta D, Suleman K, Adada M, et al.* arXiv, 2019. [paper](https://arxiv.org/pdf/1909.03716.pdf)
 
 3. **Leveraging knowledge bases in lstms for improving machine reading.** *Yang B, Mitchell T.* arXiv, 2019. [paper](https://arxiv.org/pdf/1902.09091.pdf)
