@@ -36,7 +36,7 @@
 ---
 1. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Yifan Gao, Lidong Bing, Wang Chen, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)
 
-1. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
+2. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
 
 2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** *Yifan Gao, Piji Li, Irwin King, et al.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
 
