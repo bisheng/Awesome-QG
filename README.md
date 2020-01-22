@@ -34,9 +34,15 @@
 ### 2014-2019
 
 ---
+1. **Let's Ask Again: Refine Network for Automatic Question Generation.** *Nema P, Mohankumar A K, Khapra M M, et al.* arXiv, 2019. [paper](https://arxiv.xilesou.top/pdf/1909.05355.pdf)
+
 1. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Yifan Gao, Lidong Bing, Wang Chen, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)
 
 2. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
+
+4. **Improving Generative Visual Dialog by Answering Diverse Questions.** *Murahari V, Chattopadhyay P, Batra D, et al.* arXiv, 2019. [paper](https://arxiv.xilesou.top/pdf/1909.10470.pdf)
+
+3. **Reverse SQL Question Generation Algorithm in the DBLearn Adaptive E-Learning System.** *Atchariyachanvanich K, Nalintippayawong S, Julavanich T.*  IEEE, 2019. [paper](https://ieeexplore.ieee.xilesou.top/stamp/stamp.jsp?arnumber=8703745)
 
 2. **Interconnected Question Generation with Coreference Alignment and Conversation Flow Modeling.** *Yifan Gao, Piji Li, Irwin King, et al.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.06893.pdf) [code](https://github.com/Evan-Gao/conversational-QG)
 
