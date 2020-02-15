@@ -1,5 +1,17 @@
 ## QuestionGenerationPapers
 
+### Paragraph-level QG
+
+1. **Harvesting paragraph-level question-answer pairs from wikipedia.** *Xinya Du, Claire Cardie.* ACL, 2018. [paper](https://www.aclweb.org/anthology/P18-1177/) [code](https://github.com/xinyadu/harvestingQA)
+
+2. **Leveraging Context Information for Natural Question Generation.** *Linfeng Song, Zhiguo Wang, Wael Hamza, Yue Zhang, Daniel Gildea.* ACL, 2018. [paper](https://www.aclweb.org/anthology/N18-2090/) [code](https://github.com/freesunshine0316/MPQG)
+
+3. **Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks.** *Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1424/) [code](https://github.com/seanie12/neural-question-generation)
+
+4. **Capturing Greater Context for Question Generation.** *Luu Anh Tuan, Darsh J Shah, Regina Barzilay.* arxiv, 2019. [paper](https://arxiv.org/abs/1910.10274) [code]()
+
+---
+
 ### KBQG
 
 ---
