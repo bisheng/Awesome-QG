@@ -48,6 +48,8 @@
 ---
 1. **Let's Ask Again: Refine Network for Automatic Question Generation.** *Nema P, Mohankumar A K, Khapra M M, et al.* arXiv, 2019. [paper](https://arxiv.xilesou.top/pdf/1909.05355.pdf)
 
+1. **Improving Question Generation With to the Point Context.** *Jingjing Li, Yifan Gao, Lidong Bing, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
+
 1. **Difficulty Controllable Generation of Reading Comprehension Questions.** *Yifan Gao, Lidong Bing, Wang Chen, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)
 
 2. **Generating Question-Answer Hierarchies.** *Kalpesh Krishna and Mohit Iyyer.* ACL, 2019. [paper](https://arxiv.org/pdf/1906.02622.pdf) [code](http://squash.cs.umass.edu/)
@@ -69,8 +71,6 @@
 7. **Asking the Crowd: Question Analysis, Evaluation and Generation for Open Discussion on Online Forums.** *Zi Chai, Xinyu Xing, Xiaojun Wan, et al.* ACL, 2019. 
 
 8. **Self-Attention Architectures for Answer-Agnostic Neural Question Generation.** *Thomas Scialom, Benjamin Piwowarski and Jacopo Staiano.* ACL, 2019. 
-
-9. **Evaluating Rewards for Question Generation Models.** *Tom Hosking and Sebastian Riedel.* NAACL, 2019. [paper](https://arxiv.org/pdf/1902.11049.pdf)
 
 10. **Difficulty controllable question generation for reading comprehension.** *Gao Y, Wang J, Bing L, et al.* IJCAI, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf) 
 
