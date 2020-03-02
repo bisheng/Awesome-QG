@@ -43,9 +43,19 @@
 1. **A similarity-based theory of controlling MCQ difficulty.** *Tahani Alsubait, Bijan Parsia, Ulrike Sattler* IEEE, 2013. [paper](https://www.academia.edu/23715119/A_Similarity-based_Theory_of_Controlling_MCQ_Difficulty)
 
 
-### 2014-2019
+### 2014-2020
 
----
+--- 
+1. **Capturing Greater Context for Question Generation.** *Anh Tuan Luu, Darsh Shah, Regina Barzilay* AAAI, 2020. [paper](https://arxiv.org/pdf/1910.10274.pdf)
+
+2. **Visual Dialogue State Tracking for Question Generation.** *Wei Pang, Xiaojie Wang* AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928v2.pdf)
+
+3. **Improving Question Generation with Sentence-level Semantic Matching and Answer Position Inferring.** *Ma X, Zhu Q, Zhou Y, et al.* AAAI, 2020. [paper](https://arxiv.org/pdf/1912.00879.pdf)
+
+4. **Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles.** *Shayok Chakraborty* AAAI, 2020. 
+
+5. **Neural Question Generation with Answer Pivot.** *Bingning Wang, Xiaochuan Wang, Ting Yao, et al.* AAAI, 2020. 
+
 1. **Let's Ask Again: Refine Network for Automatic Question Generation.** *Nema P, Mohankumar A K, Khapra M M, et al.* arXiv, 2019. [paper](https://arxiv.xilesou.top/pdf/1909.05355.pdf)
 
 1. **Improving Question Generation With to the Point Context.** *Jingjing Li, Yifan Gao, Lidong Bing, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.06036.pdf)
