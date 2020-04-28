@@ -8,39 +8,27 @@
 
 3. **Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks.** *Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke.* EMNLP, 2018. [paper](https://www.aclweb.org/anthology/D18-1424/) [code](https://github.com/seanie12/neural-question-generation)
 
-4. **Capturing Greater Context for Question Generation.** *Luu Anh Tuan, Darsh J Shah, Regina Barzilay.* arxiv, 2019. [paper](https://arxiv.org/abs/1910.10274) [code]()
+4. **Capturing Greater Context for Question Generation.** *Luu Anh Tuan, Darsh J Shah, Regina Barzilay.* arxiv, 2019. [paper](https://arxiv.org/abs/1910.10274) 
 
 ---
+### Neural KBQG
+1. *Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks.* *Chen Y, Wu L, Zaki M J.* arxiv, 2020. [paper](https://arxiv.org/pdf/2004.06015.pdf)
 
-### KBQG
+2. **Leveraging knowledge bases in lstms for improving machine reading.** *Yang B, Mitchell T.* arxiv, 2019. [paper](https://arxiv.org/pdf/1902.09091.pdf) 
 
+3. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* ISWC, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
+
+4. **Generating Questions for Knowledge Bases via Incorporating Diversified Contexts and Answer-Aware Loss.** *Liu C, Liu K, He S, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1910.13108.pdf)
+
+5. **Zero-shot question generation from knowledge graphs for unseen predicates and entity types.** *Elsahar H, Gravier C, Laforest F.* arXiv, 2018. [paper](https://arxiv.org/pdf/1802.06842.pdf) [code](https://github.com/NAACL2018Anonymous/submission)
+
+6. **A Neural Question Generation System Based on Knowledge Base.** *Wang H, Zhang X, Wang H.* NLPCC, 2018. [paper](https://link.springer.com/chapter/10.1007/978-3-319-99495-6_12)
+
+7. **Generating natural language question-answer pairs from a knowledge graph using a RNN based question generation model.** *Indurthi S R, Raghu D, Khapra M M, et al.* ACL, 2017. [paper](https://www.aclweb.org/anthology/E17-1036.pdf) [code](http://knowitall.cs.washington.edu/oqa/data/wikianswers/)
+
+8. **Generating factoid questions with recurrent neural networks: The 30m factoid question-answer corpus.** *Serban I V, García-Durán A, Gulcehre C, et al.* ACL, 2016. [paper](https://arxiv.org/pdf/1603.06807.pdf)
 ---
-### 2014-2019
 
----
-1. **Difficulty-controllable Multi-hop Question Generation From Knowledge Graphs.** *Vishwajeet Kumar, Yuncheng Hua, Ganesh Ramakrishnan, et al.* EMNLP, 2019. [paper](https://arxiv.org/pdf/1807.03586.pdf)  [code&dataset](https://github.com/liyuanfang/mhqg)
-
-2. **Difficulty-level Modeling of Ontology-based Factual Questions.** 
-
-3. **Question Difficulty Estimation in Community Question Answering Services.**
-
-4. **Domain-specific question generation from a knowledge base.**
-
-5. **Generating Quiz Questions from knowledge graphs.**
-
-6. **Knowledge Questions from Knowledge Graphs.**
-
-7. **Question Generation from a Knowledge Base with Web Exploration.**
-
-8. **Question generation from a knowledge base.**
-
-9. **Question generation from concept maps.**
-
-
-### 2008-2013
-
----
-1. **A similarity-based theory of controlling MCQ difficulty.** *Tahani Alsubait, Bijan Parsia, Ulrike Sattler* IEEE, 2013. [paper](https://www.academia.edu/23715119/A_Similarity-based_Theory_of_Controlling_MCQ_Difficulty)
 
 
 ### 2014-2020
