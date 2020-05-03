@@ -34,7 +34,9 @@
 ### 2014-2020
 
 --- 
-1. **Capturing Greater Context for Question Generation.** *Anh Tuan Luu, Darsh Shah, Regina Barzilay* AAAI, 2020. [paper](https://arxiv.org/pdf/1910.10274.pdf)
+1. **Semantic Graphs for Generating Deep Question.** *Pan L, Xie Y, Feng Y, et al.* arXiv, 2020. [paper](https://arxiv.org/abs/2004.12704) [code](https://github.com/WING-NUS/SG-Deep-Question-Generation)
+
+1. **Capturing Greater Context for Question Generation.** *Anh Tuan Luu, Darsh Shah, Regina Barzilay.* AAAI, 2020. [paper](https://arxiv.org/pdf/1910.10274.pdf)
 
 2. **Visual Dialogue State Tracking for Question Generation.** *Wei Pang, Xiaojie Wang* AAAI, 2020. [paper](https://arxiv.org/pdf/1911.07928v2.pdf)
 
