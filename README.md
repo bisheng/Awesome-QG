@@ -34,6 +34,8 @@
 ### 2014-2020
 
 --- 
+1. ***Syn-QG: Syntactic and Shallow Semantic Rules for Question Generation* *Kaustubh Dhole, Christopher D. Manning* ACL, 2020. [paper](https://www.aclweb.org/anthology/2020.acl-main.69/) [code](https://bitbucket.org/kaustubhdhole/syn-qg/src/master/) [video](https://www.youtube.com/watch?v=GWAlQMhCfsw)
+
 1. **Semantic Graphs for Generating Deep Question.** *Pan L, Xie Y, Feng Y, et al.* arXiv, 2020. [paper](https://arxiv.org/abs/2004.12704) [code](https://github.com/WING-NUS/SG-Deep-Question-Generation)
 
 1. **Capturing Greater Context for Question Generation.** *Anh Tuan Luu, Darsh Shah, Regina Barzilay.* AAAI, 2020. [paper](https://arxiv.org/pdf/1910.10274.pdf)
