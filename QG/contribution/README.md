@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Contribution**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution/README.md#taxonomy)
 - [![](https://img.shields.io/badge/Survey-2-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution/README.md#survey)
 ## Taxonomy 
 - [Summary](https://github.com/bisheng/Awesome-QG/blob/master/QG/./)

@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Continual Learning Application**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/application/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/application/README.md#taxonomy)
 - [![](https://img.shields.io/badge/Education-3-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/application/README.md#education)
 - [![](https://img.shields.io/badge/Dialogue-1-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/application/README.md#dialogue)
 ## Taxonomy 

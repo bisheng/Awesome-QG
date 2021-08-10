@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Continual Learning Approach**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/approach/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/approach/README.md#taxonomy)
 ## Taxonomy 
 - [Summary](https://github.com/bisheng/Awesome-QG/blob/master/QG/./)
 - [Application](https://github.com/bisheng/Awesome-QG/blob/master/QG/application)

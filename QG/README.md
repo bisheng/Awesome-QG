@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **<font color=#008000>Published Venue</font>**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/./README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/./README.md#taxonomy)
 - [![](https://img.shields.io/badge/ACL-39-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/./README.md#acl)
 - [![](https://img.shields.io/badge/EMNLP-23-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/./README.md#emnlp)
 - [![](https://img.shields.io/badge/NAACL-14-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/./README.md#naacl)

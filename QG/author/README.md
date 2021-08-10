@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Author**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/author/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/author/README.md#taxonomy)
 - [![](https://img.shields.io/badge/Ming_Zhou-5-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/author/README.md#ming-zhou)
 - [![](https://img.shields.io/badge/Sudha_Rao-4-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/author/README.md#sudha-rao)
 - [![](https://img.shields.io/badge/Xuanjing_Huang-4-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/author/README.md#xuanjing-huang)
