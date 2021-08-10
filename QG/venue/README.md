@@ -11,12 +11,13 @@ This page categorizes the literature by the **<font color=#008000>Published Venu
 - [![](https://img.shields.io/badge/EMNLP-23-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#emnlp)
 - [![](https://img.shields.io/badge/NAACL-14-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#naacl)
 - [![](https://img.shields.io/badge/COLING-8-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#coling)
-- [![](https://img.shields.io/badge/EACL-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#eacl)
+- [![](https://img.shields.io/badge/EACL-2-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#eacl)
 - [![](https://img.shields.io/badge/ICLR-2-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#iclr)
 - [![](https://img.shields.io/badge/NeurIPS-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#neurips)
 - [![](https://img.shields.io/badge/SIGIR-2-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#sigir)
-- [![](https://img.shields.io/badge/AAAI-10-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#aaai)
+- [![](https://img.shields.io/badge/AAAI-11-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#aaai)
 - [![](https://img.shields.io/badge/IJCAI-4-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#ijcai)
+- [![](https://img.shields.io/badge/WWW-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#www)
 - [![](https://img.shields.io/badge/CVPR-3-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#cvpr)
 - [![](https://img.shields.io/badge/ISWC-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#iswc)
 - [![](https://img.shields.io/badge/NLPCC-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#nlpcc)
@@ -24,7 +25,7 @@ This page categorizes the literature by the **<font color=#008000>Published Venu
 - [![](https://img.shields.io/badge/SLaTE-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#slate)
 - [![](https://img.shields.io/badge/ENLG-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#enlg)
 - [![](https://img.shields.io/badge/RPTEL-1-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#rptel)
-- [![](https://img.shields.io/badge/arXiv-6-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-7-green)](https://github.com/bisheng/QGpapers/blob/master/QG/venue/README.md#arxiv)
 ## Taxonomy 
 - [Summary](https://github.com/bisheng/QGpapers/blob/master/QG/./)
 - [Application](https://github.com/bisheng/QGpapers/blob/master/QG/application)
@@ -223,7 +224,7 @@ Ramakanth Pasunuru and
 Mohit Bansal* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L678-L695) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2018-green)](https://aclanthology.org/P18-1177/)<a href="https://scholar.google.com.hk/scholar?q=Harvesting+Paragraph-level+Question-Answer+Pairs+from+Wikipedia"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Harvesting Paragraph-level Question-Answer Pairs from Wikipedia**](https://aclanthology.org/P18-1177/) , <br> by *Xinya Du and
-Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2504-L2519) <br><br>
+Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2540-L2555) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2017-green)](https://doi.org/10.18653/v1/w17-2603)<a href="https://scholar.google.com.hk/scholar?q=Machine+Comprehension+by+Text-to-Text+Neural+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Machine Comprehension by Text-to-Text Neural Question Generation**](https://doi.org/10.18653/v1/w17-2603) , <br> by *Xingdi Yuan and
 Tong Wang and
@@ -232,11 +233,11 @@ Alessandro Sordoni and
 Philip Bachman and
 Saizheng Zhang and
 Sandeep Subramanian and
-Adam Trischler* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1727-L1756) <br><br>
+Adam Trischler* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1763-L1792) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2017-green)](https://doi.org/10.18653/v1/P17-1123)<a href="https://scholar.google.com.hk/scholar?q=Learning+to+Ask:+Neural+Question+Generation+for+Reading+Comprehension"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning to Ask: Neural Question Generation for Reading Comprehension**](https://doi.org/10.18653/v1/P17-1123) , <br> by *Xinya Du and
 Junru Shao and
-Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2059-L2075) <br><br>
+Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2095-L2111) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2016-green)](https://doi.org/10.18653/v1/p16-1056)<a href="https://scholar.google.com.hk/scholar?q=Generating+Factoid+Questions+With+Recurrent+Neural+Networks:+The+30M+Factoid+Question-Answer+Corpus"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Generating Factoid Questions With Recurrent Neural Networks: The 30M
 Factoid Question-Answer Corpus**](https://doi.org/10.18653/v1/p16-1056) , <br> by *Iulian Vlad Serban and
@@ -245,18 +246,18 @@ Alberto Garc{\'{\i}}a{-}Dur{\'{a}}n and
 Sungjin Ahn and
 Sarath Chandar and
 Aaron C. Courville and
-Yoshua Bengio* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2039-L2057) <br><br>
+Yoshua Bengio* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2075-L2093) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2015-green)](https://doi.org/10.3115/v1/p15-1086)<a href="https://scholar.google.com.hk/scholar?q=Deep+Questions+without+Deep+Understanding"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Deep Questions without Deep Understanding**](https://doi.org/10.3115/v1/p15-1086) , <br> by *Igor Labutov and
 Sumit Basu and
-Lucy Vanderwende* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1796-L1810) <br><br>
+Lucy Vanderwende* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1832-L1846) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2011-green)](https://aclanthology.org/W11-1401/)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Question+Generation+using+Discourse+Cues"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Question Generation using Discourse Cues**](https://aclanthology.org/W11-1401/) , <br> by *Manish Agarwal and
 Rakshit shah and
-Prashanth Mannem* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1671-L1687) <br><br>
+Prashanth Mannem* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1707-L1723) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2011-green)](https://aclanthology.org/W11-1407/)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Gap-fill+Question+Generation+from+Text+Books"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Gap-fill Question Generation from Text Books**](https://aclanthology.org/W11-1407/) , <br> by *Manish Agarwal and
-Prashanth Mannem* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1690-L1705) <br><br>
+Prashanth Mannem* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1726-L1741) <br><br>
 
 ## EMNLP
 
@@ -313,55 +314,55 @@ Jun Zhao* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L11
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1308)<a href="https://scholar.google.com.hk/scholar?q=Mixture+Content+Selection+for+Diverse+Sequence+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Mixture Content Selection for Diverse Sequence Generation**](https://doi.org/10.18653/v1/D19-1308) , <br> by *Jaemin Cho and
 Min Joon Seo and
-Hannaneh Hajishirzi* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2221-L2239) <br><br>
+Hannaneh Hajishirzi* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2257-L2275) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1426)<a href="https://scholar.google.com.hk/scholar?q=Learning+to+Ask+for+Conversational+Machine+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning to Ask for Conversational Machine Learning**](https://doi.org/10.18653/v1/D19-1426) , <br> by *Shashank Srivastava and
 Igor Labutov and
-Tom M. Mitchell* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2241-L2259) <br><br>
+Tom M. Mitchell* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2277-L2295) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1596)<a href="https://scholar.google.com.hk/scholar?q=Sunny+and+Dark+Outside?!+Improving+Answer+Consistency+in+VQA+through+Entailed+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Sunny and Dark Outside?! Improving Answer Consistency in VQA through
 Entailed Question Generation**](https://doi.org/10.18653/v1/D19-1596) , <br> by *Arijit Ray and
 Karan Sikka and
 Ajay Divakaran and
 Stefan Lee and
-Giedrius Burachas* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2261-L2282) <br><br>
+Giedrius Burachas* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2297-L2318) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1437)<a href="https://scholar.google.com.hk/scholar?q=FlowSeq:+Non-Autoregressive+Conditional+Sequence+Generation+with+Generative+Flow"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative
 Flow**](https://doi.org/10.18653/v1/D19-1437) , <br> by *Xuezhe Ma and
 Chunting Zhou and
 Xian Li and
 Graham Neubig and
-Eduard H. Hovy* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2284-L2305) <br><br>
+Eduard H. Hovy* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2320-L2341) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1622)<a href="https://scholar.google.com.hk/scholar?q=Question-type+Driven+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Question-type Driven Question Generation**](https://doi.org/10.18653/v1/D19-1622) , <br> by *Wenjie Zhou and
 Minghua Zhang and
-Yunfang Wu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2307-L2325) <br><br>
+Yunfang Wu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2343-L2361) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1326)<a href="https://scholar.google.com.hk/scholar?q=Let's+Ask+Again:+Refine+Network+for+Automatic+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Let's Ask Again: Refine Network for Automatic Question Generation**](https://doi.org/10.18653/v1/D19-1326) , <br> by *Preksha Nema and
 Akash Kumar Mohankumar and
 Mitesh M. Khapra and
 Balaji Vasan Srinivasan and
-Balaraman Ravindran* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2327-L2347) <br><br>
+Balaraman Ravindran* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2363-L2383) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1337)<a href="https://scholar.google.com.hk/scholar?q=Multi-Task+Learning+with+Language+Modeling+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Multi-Task Learning with Language Modeling for Question Generation**](https://doi.org/10.18653/v1/D19-1337) , <br> by *Wenjie Zhou and
 Minghua Zhang and
-Yunfang Wu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2307-L2325) <br><br>
+Yunfang Wu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2343-L2361) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1253)<a href="https://scholar.google.com.hk/scholar?q=Addressing+Semantic+Drift+in+Question+Generation+for+Semi-Supervised+Question+Answering"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Addressing Semantic Drift in Question Generation for Semi-Supervised
 Question Answering**](https://doi.org/10.18653/v1/D19-1253) , <br> by *Shiyue Zhang and
-Mohit Bansal* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2369-L2387) <br><br>
+Mohit Bansal* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2405-L2423) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1317)<a href="https://scholar.google.com.hk/scholar?q=Improving+Question+Generation+With+to+the+Point+Context"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving Question Generation With to the Point Context**](https://doi.org/10.18653/v1/D19-1317) , <br> by *Jingjing Li and
 Yifan Gao and
 Lidong Bing and
 Irwin King and
-Michael R. Lyu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2389-L2409) <br><br>
+Michael R. Lyu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2425-L2445) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2019-green)](https://doi.org/10.18653/v1/D19-1511)<a href="https://scholar.google.com.hk/scholar?q=Answer-guided+and+Semantic+Coherent+Question+Generation+in+Open-domain+Conversation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Answer-guided and Semantic Coherent Question Generation in Open-domain
 Conversation**](https://doi.org/10.18653/v1/D19-1511) , <br> by *Weichao Wang and
 Shi Feng and
 Daling Wang and
-Yifei Zhang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2411-L2431) <br><br>
+Yifei Zhang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2447-L2467) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2018-green)](https://doi.org/10.18653/v1/d18-1434)<a href="https://scholar.google.com.hk/scholar?q=Multimodal+Differential+Network+for+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Multimodal Differential Network for Visual Question Generation**](https://doi.org/10.18653/v1/d18-1434) , <br> by *Badri Narayana Patro and
 Sandeep Kumar and
@@ -389,7 +390,7 @@ Qifa Ke* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L136
 
 - [![](https://img.shields.io/badge/EMNLP-2017-green)](https://doi.org/10.18653/v1/d17-1219)<a href="https://scholar.google.com.hk/scholar?q=Identifying+Where+to+Focus+in+Reading+Comprehension+for+Neural+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Identifying Where to Focus in Reading Comprehension for Neural Question
 Generation**](https://doi.org/10.18653/v1/d17-1219) , <br> by *Xinya Du and
-Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2098-L2115) <br><br>
+Claire Cardie* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2134-L2151) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2013-green)](https://aclanthology.org/D13-1160/)<a href="https://scholar.google.com.hk/scholar?q=Semantic+Parsing+on+Freebase+from+Question-Answer+Pairs"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Semantic Parsing on Freebase from Question-Answer Pairs**](https://aclanthology.org/D13-1160/) , <br> by *Jonathan Berant and
 Andrew Chou and
@@ -398,24 +399,24 @@ Percy Liang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#
 
 ## NAACL
 
-- [![](https://img.shields.io/badge/NAACL-2021-green)](https://doi.org/10.18653/v1/2021.naacl-main.469)<a href="https://scholar.google.com.hk/scholar?q=Unsupervised+Multi-hop+Question+Answering+by+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Unsupervised Multi-hop Question Answering by Question Generation**](https://doi.org/10.18653/v1/2021.naacl-main.469) , <br> by *Liangming Pan and
-Wenhu Chen and
-Wenhan Xiong and
-Min{-}Yen Kan and
-William Yang Wang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1556-L1581) <br><br>
-
 - [![](https://img.shields.io/badge/NAACL-2021-green)](https://doi.org/10.18653/v1/2021.naacl-main.340)<a href="https://scholar.google.com.hk/scholar?q=Ask+what's+missing+and+what's+useful:+Improving+Clarification+Question+Generation+using+Global+Knowledge"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Ask what's missing and what's useful: Improving Clarification Question
 Generation using Global Knowledge**](https://doi.org/10.18653/v1/2021.naacl-main.340) , <br> by *Bodhisattwa Prasad Majumder and
 Sudha Rao and
 Michel Galley and
-Julian J. McAuley* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1583-L1608) <br><br>
+Julian J. McAuley* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1571-L1596) <br><br>
+
+- [![](https://img.shields.io/badge/NAACL-2021-green)](https://doi.org/10.18653/v1/2021.naacl-main.469)<a href="https://scholar.google.com.hk/scholar?q=Unsupervised+Multi-hop+Question+Answering+by+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Unsupervised Multi-hop Question Answering by Question Generation**](https://doi.org/10.18653/v1/2021.naacl-main.469) , <br> by *Liangming Pan and
+Wenhu Chen and
+Wenhan Xiong and
+Min{-}Yen Kan and
+William Yang Wang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1598-L1623) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2021-green)](https://doi.org/10.18653/v1/2021.naacl-main.69)<a href="https://scholar.google.com.hk/scholar?q=Document-Level+Event+Argument+Extraction+by+Conditional+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Document-Level Event Argument Extraction by Conditional Generation**](https://doi.org/10.18653/v1/2021.naacl-main.69) , <br> by *Sha Li and
 Heng Ji and
-Jiawei Han* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1610-L1633) <br><br>
+Jiawei Han* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1646-L1669) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2019-green)](https://doi.org/10.18653/v1/n19-1013)<a href="https://scholar.google.com.hk/scholar?q=Answer-based+Adversarial+Training+for+Generating+Clarification+Questions"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Answer-based Adversarial Training for Generating Clarification Questions**](https://doi.org/10.18653/v1/n19-1013) , <br> by *Sudha Rao and
-Hal Daum{\'{e}} III* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1919-L1935) <br><br>
+Hal Daum{\'{e}} III* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1955-L1971) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2019-green)](https://doi.org/10.18653/v1/n19-1265)<a href="https://scholar.google.com.hk/scholar?q=Beyond+task+success:+A+closer+look+at+jointly+learning+to+see,+ask,+and+GuessWhat"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Beyond task success: A closer look at jointly learning to see, ask,
 and GuessWhat**](https://doi.org/10.18653/v1/n19-1265) , <br> by *Ravi Shekhar and
@@ -424,10 +425,10 @@ Tim Baumg{\"{a}}rtner and
 Elia Bruni and
 Barbara Plank and
 Raffaella Bernardi and
-Raquel Fern{\'{a}}ndez* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1937-L1959) <br><br>
+Raquel Fern{\'{a}}ndez* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1973-L1995) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2019-green)](https://doi.org/10.18653/v1/n19-1237)<a href="https://scholar.google.com.hk/scholar?q=Evaluating+Rewards+for+Question+Generation+Models"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Evaluating Rewards for Question Generation Models**](https://doi.org/10.18653/v1/n19-1237) , <br> by *Tom Hosking and
-Sebastian Riedel* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1961-L1977) <br><br>
+Sebastian Riedel* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1997-L2013) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2018-green)](https://doi.org/10.18653/v1/n18-1020)<a href="https://scholar.google.com.hk/scholar?q=Zero-Shot+Question+Generation+from+Knowledge+Graphs+for+Unseen+Predicates+and+Entity+Types"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Zero-Shot Question Generation from Knowledge Graphs for Unseen Predicates
 and Entity Types**](https://doi.org/10.18653/v1/n18-1020) , <br> by *Hady ElSahar and
@@ -457,7 +458,7 @@ Eric P. Xing* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib
 
 - [![](https://img.shields.io/badge/NAACL-2015-green)](https://doi.org/10.3115/v1/w15-0618)<a href="https://scholar.google.com.hk/scholar?q=RevUP:+Automatic+Gap-Fill+Question+Generation+from+Educational+Texts"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**RevUP: Automatic Gap-Fill Question Generation from Educational Texts**](https://doi.org/10.3115/v1/w15-0618) , <br> by *Girish Kumar and
 Rafael E. Banchs and
-Luis Fernando D'Haro* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1775-L1793) <br><br>
+Luis Fernando D'Haro* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1811-L1829) <br><br>
 
 - [![](https://img.shields.io/badge/NAACL-2012-green)](https://aclanthology.org/N12-1092/)<a href="https://scholar.google.com.hk/scholar?q=Mind+the+Gap:+Learning+to+Choose+Gaps+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Mind the Gap: Learning to Choose Gaps for Question Generation**](https://aclanthology.org/N12-1092/) , <br> by *Lee Becker and
 Sumit Basu and
@@ -507,15 +508,20 @@ Michael Gamon* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bi
 - [![](https://img.shields.io/badge/COLING-2012-green)](https://aclanthology.org/C12-2112/)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Question+Generation+in+Multimedia-Based+Learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Question Generation in Multimedia-Based Learning**](https://aclanthology.org/C12-2112/) , <br> by *Yvonne Skalban and
 Le An Ha and
 Lucia Specia and
-Ruslan Mitkov* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2486-L2502) <br><br>
+Ruslan Mitkov* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2522-L2538) <br><br>
 
 ## EACL
+
+- [![](https://img.shields.io/badge/EACL-2021-green)](https://aclanthology.org/2021.eacl-main.177/)<a href="https://scholar.google.com.hk/scholar?q=ChainCQG:+Flow-Aware+Conversational+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ChainCQG: Flow-Aware Conversational Question Generation**](https://aclanthology.org/2021.eacl-main.177/) , <br> by *Jing Gu and
+Mostafa Mirshekari and
+Zhou Yu and
+Aaron Sisto* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2573-L2590) <br><br>
 
 - [![](https://img.shields.io/badge/EACL-2017-green)](https://doi.org/10.18653/v1/e17-1036)<a href="https://scholar.google.com.hk/scholar?q=Generating+Natural+Language+Question-Answer+Pairs+from+a+Knowledge+Graph+Using+a+RNN+Based+Question+Generation+Model"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Generating Natural Language Question-Answer Pairs from a Knowledge
 Graph Using a RNN Based Question Generation Model**](https://doi.org/10.18653/v1/e17-1036) , <br> by *Sathish Reddy and
 Dinesh Raghu and
 Mitesh M. Khapra and
-Sachindra Joshi* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2018-L2037) <br><br>
+Sachindra Joshi* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2054-L2073) <br><br>
 
 ## ICLR
 
@@ -529,13 +535,13 @@ Generation**](https://openreview.net/forum?id=rkgT3jRct7) , <br> by *Sang{-}Woo 
 Tong Gao and
 Sohee Yang and
 Jaejun Yoo and
-Jung{-}Woo Ha* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2171-L2186) <br><br>
+Jung{-}Woo Ha* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2207-L2222) <br><br>
 
 ## NeurIPS
 
 - [![](https://img.shields.io/badge/NeurIPS-2017-green)](https://proceedings.neurips.cc/paper/2017/hash/24681928425f5a9133504de568f5f6df-Abstract.html)<a href="https://scholar.google.com.hk/scholar?q=Question+Asking+as+Program+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Question Asking as Program Generation**](https://proceedings.neurips.cc/paper/2017/hash/24681928425f5a9133504de568f5f6df-Abstract.html) , <br> by *Anselm Rothe and
 Brenden M. Lake and
-Todd M. Gureckis* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2077-L2096) <br><br>
+Todd M. Gureckis* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2113-L2132) <br><br>
 
 ## SIGIR
 
@@ -549,7 +555,7 @@ Kai Zheng* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1
 - [![](https://img.shields.io/badge/SIGIR-2019-green)](https://doi.org/10.1145/3331184.3331265)<a href="https://scholar.google.com.hk/scholar?q=Asking+Clarifying+Questions+in+Open-Domain+Information-Seeking+Conversations"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Asking Clarifying Questions in Open-Domain Information-Seeking Conversations**](https://doi.org/10.1145/3331184.3331265) , <br> by *Mohammad Aliannejadi and
 Hamed Zamani and
 Fabio Crestani and
-W. Bruce Croft* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2117-L2138) <br><br>
+W. Bruce Croft* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2153-L2174) <br><br>
 
 ## AAAI
 
@@ -567,6 +573,10 @@ Jingyun Xu and
 Pijian Li and
 Qing Li and
 Ho{-}fung Leung* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1510-L1529) <br><br>
+
+- [![](https://img.shields.io/badge/AAAI-2021-green)](https://ojs.aaai.org/index.php/AAAI/article/view/16559)<a href="https://scholar.google.com.hk/scholar?q=Knowledge-Driven+Distractor+Generation+for+Cloze-Style+Multiple+Choice+Questions"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowledge-Driven Distractor Generation for Cloze-Style Multiple Choice
+Questions**](https://ojs.aaai.org/index.php/AAAI/article/view/16559) , <br> by *Siyu Ren and
+Kenny Q. Zhu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2557-L2571) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6258)<a href="https://scholar.google.com.hk/scholar?q=How+to+Ask+Better+Questions?+A+Large-Scale+Multi-Domain+Dataset+for+Rewriting+Ill-Formed+Questions"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**How to Ask Better Questions? A Large-Scale Multi-Domain Dataset
 for Rewriting Ill-Formed Questions**](https://aaai.org/ojs/index.php/AAAI/article/view/6258) , <br> by *Zewei Chu and
@@ -599,14 +609,14 @@ Xiaojie Wang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib
 - [![](https://img.shields.io/badge/AAAI-2019-green)](https://doi.org/10.1609/aaai.v33i01.33016602)<a href="https://scholar.google.com.hk/scholar?q=Improving+Neural+Question+Generation+Using+Answer+Separation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving Neural Question Generation Using Answer Separation**](https://doi.org/10.1609/aaai.v33i01.33016602) , <br> by *Yanghoon Kim and
 Hwanhee Lee and
 Joongbo Shin and
-Kyomin Jung* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1863-L1878) <br><br>
+Kyomin Jung* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1899-L1914) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2019-green)](https://doi.org/10.1609/aaai.v33i01.33017168)<a href="https://scholar.google.com.hk/scholar?q=A+Multi-Agent+Communication+Framework+for+Question-Worthy+Phrase+Extraction+and+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Multi-Agent Communication Framework for Question-Worthy Phrase Extraction
 and Question Generation**](https://doi.org/10.1609/aaai.v33i01.33017168) , <br> by *Siyuan Wang and
 Zhongyu Wei and
 Zhihao Fan and
 Yang Liu and
-Xuanjing Huang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1880-L1897) <br><br>
+Xuanjing Huang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1916-L1933) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2016-green)](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12426)<a href="https://scholar.google.com.hk/scholar?q=Ask,+and+Shall+You+Receive?+Understanding+Desire+Fulfillment+in+Natural+Language+Text"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Ask, and Shall You Receive? Understanding Desire Fulfillment in Natural
 Language Text**](http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12426) , <br> by *Snigdha Chaturvedi and
@@ -619,14 +629,14 @@ Hal Daum{\'{e}} III* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bib
 Lidong Bing and
 Wang Chen and
 Michael R. Lyu and
-Irwin King* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1979-L1996) <br><br>
+Irwin King* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2015-L2032) <br><br>
 
 - [![](https://img.shields.io/badge/IJCAI-2019-green)](https://doi.org/10.24963/ijcai.2019/528)<a href="https://scholar.google.com.hk/scholar?q=Weak+Supervision+Enhanced+Generative+Network+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Weak Supervision Enhanced Generative Network for Question Generation**](https://doi.org/10.24963/ijcai.2019/528) , <br> by *Yutong Wang and
 Jiyuan Zheng and
 Qijiong Liu and
 Zhou Zhao and
 Jun Xiao and
-Yueting Zhuang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1998-L2016) <br><br>
+Yueting Zhuang* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2034-L2052) <br><br>
 
 - [![](https://img.shields.io/badge/IJCAI-2018-green)](https://doi.org/10.24963/ijcai.2018/563)<a href="https://scholar.google.com.hk/scholar?q=A+Question+Type+Driven+Framework+to+Diversify+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Question Type Driven Framework to Diversify Visual Question Generation**](https://doi.org/10.24963/ijcai.2018/563) , <br> by *Zhihao Fan and
 Zhongyu Wei and
@@ -640,20 +650,26 @@ Tiejian Luo and
 Lili Tao and
 Yanjun Wu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L855-L872) <br><br>
 
+## WWW
+
+- [![](https://img.shields.io/badge/WWW-2021-green)](https://doi.org/10.1145/3442381.3449892)<a href="https://scholar.google.com.hk/scholar?q=Quiz-Style+Question+Generation+for+News+Stories"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Quiz-Style Question Generation for News Stories**](https://doi.org/10.1145/3442381.3449892) , <br> by *{\'{A}}d{\'{a}}m D. Lelkes and
+Vinh Q. Tran and
+Cong Yu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1625-L1644) <br><br>
+
 ## CVPR
 
 - [![](https://img.shields.io/badge/CVPR-2019-green)](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Abbasnejad\_Whats\_to\_Know\_Uncertainty\_as\_a\_Guide\_to\_Asking\_Goal-Oriented\_CVPR\_2019\_paper.html)<a href="https://scholar.google.com.hk/scholar?q=What's+to+Know?+Uncertainty+as+a+Guide+to+Asking+Goal-Oriented+Questions"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**What's to Know? Uncertainty as a Guide to Asking Goal-Oriented Questions**](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Abbasnejad\_Whats\_to\_Know\_Uncertainty\_as\_a\_Guide\_to\_Asking\_Goal-Oriented\_CVPR\_2019\_paper.html) , <br> by *Ehsan Abbasnejad and
 Qi Wu and
 Qinfeng Shi and
-Anton van den Hengel* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2188-L2203) <br><br>
+Anton van den Hengel* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2224-L2239) <br><br>
 
 - [![](https://img.shields.io/badge/CVPR-2019-green)](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Krishna\_Information\_Maximizing\_Visual\_Question\_Generation\_CVPR\_2019\_paper.html)<a href="https://scholar.google.com.hk/scholar?q=Information+Maximizing+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Information Maximizing Visual Question Generation**](http://openaccess.thecvf.com/content\_CVPR\_2019/html/Krishna\_Information\_Maximizing\_Visual\_Question\_Generation\_CVPR\_2019\_paper.html) , <br> by *Ranjay Krishna and
 Michael Bernstein and
-Li Fei{-}Fei* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2205-L2219) <br><br>
+Li Fei{-}Fei* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2241-L2255) <br><br>
 
 - [![](https://img.shields.io/badge/CVPR-2017-green)](https://doi.org/10.1109/CVPR.2017.575)<a href="https://scholar.google.com.hk/scholar?q=Creativity:+Generating+Diverse+Questions+Using+Variational+Autoencoders"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Creativity: Generating Diverse Questions Using Variational Autoencoders**](https://doi.org/10.1109/CVPR.2017.575) , <br> by *Unnat Jain and
 Ziyu Zhang and
-Alexander G. Schwing* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1829-L1843) <br><br>
+Alexander G. Schwing* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1865-L1879) <br><br>
 
 ## ISWC
 
@@ -663,7 +679,7 @@ Yuncheng Hua and
 Ganesh Ramakrishnan and
 Guilin Qi and
 Lianli Gao and
-Yuan{-}Fang Li* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2140-L2169) <br><br>
+Yuan{-}Fang Li* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2176-L2205) <br><br>
 
 ## NLPCC
 
@@ -683,23 +699,26 @@ Jun Zhao* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L45
 - [![](https://img.shields.io/badge/SLaTE-2009-green)](http://www.isca-speech.org/archive/slate\_2009/sla9\_057.html)<a href="https://scholar.google.com.hk/scholar?q=Automatic+question+generation+and+answer+judging:+a+q\&a+game+for+language+learning"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic question generation and answer judging: a q\&a game
 for language learning**](http://www.isca-speech.org/archive/slate\_2009/sla9\_057.html) , <br> by *Yushi Xu and
 Anna Goldie and
-Stephanie Seneff* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1654-L1668) <br><br>
+Stephanie Seneff* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1690-L1704) <br><br>
 
 ## ENLG
 
 - [![](https://img.shields.io/badge/ENLG-2013-green)](https://aclanthology.org/W13-2114/)<a href="https://scholar.google.com.hk/scholar?q=Generating+Natural+Language+Questions+to+Support+Learning+On-Line"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Generating Natural Language Questions to Support Learning On-Line**](https://aclanthology.org/W13-2114/) , <br> by *David Lindberg and
 Fred Popowich and
 John C. Nesbit and
-Philip H. Winne* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1708-L1724) <br><br>
+Philip H. Winne* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1744-L1760) <br><br>
 
 ## RPTEL
 
 - [![](https://img.shields.io/badge/RPTEL-2021-green)](https://doi.org/10.1186/s41039-021-00151-1)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Question+Generation+and+Answer+Assessment:+A+Survey"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Question Generation and Answer Assessment: A Survey**](https://doi.org/10.1186/s41039-021-00151-1) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1635-L1652) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1671-L1688) <br><br>
 
 ## arXiv
+
+- [![](https://img.shields.io/badge/CoRR-2021-green)](https://arxiv.org/abs/2105.10023)<a href="https://scholar.google.com.hk/scholar?q=ASQ:+Automatically+Generating+Question-Answer+Pairs+using+AMRs"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ASQ: Automatically Generating Question-Answer Pairs using AMRs**](https://arxiv.org/abs/2105.10023) , <br> by *Geetanjali Rakshit and
+Jeffrey Flanigan* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1556-L1569) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2020-green)](https://arxiv.org/abs/2004.06015)<a href="https://scholar.google.com.hk/scholar?q=Toward+Subgraph+Guided+Knowledge+Graph+Question+Generation+with+Graph+Neural+Networks"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Toward Subgraph Guided Knowledge Graph Question Generation with Graph
 Neural Networks**](https://arxiv.org/abs/2004.06015) , <br> by *Yu Chen and
@@ -709,7 +728,7 @@ Mohammed J. Zaki* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex
 - [![](https://img.shields.io/badge/CoRR-2019-green)](http://arxiv.org/abs/1905.08949)<a href="https://scholar.google.com.hk/scholar?q=Recent+Advances+in+Neural+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Recent Advances in Neural Question Generation**](http://arxiv.org/abs/1905.08949) , <br> by *Liangming Pan and
 Wenqiang Lei and
 Tat{-}Seng Chua and
-Min{-}Yen Kan* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1845-L1861) <br><br>
+Min{-}Yen Kan* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1881-L1897) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2019-green)](http://arxiv.org/abs/1902.10418)<a href="https://scholar.google.com.hk/scholar?q=Learning+to+Generate+Questions+by+Learning+What+not+to+Generate"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Learning to Generate Questions by Learning What not to Generate**](http://arxiv.org/abs/1902.10418) , <br> by *Bang Liu and
 Mingjun Zhao and
@@ -717,16 +736,16 @@ Di Niu and
 Kunfeng Lai and
 Yancheng He and
 Haojie Wei and
-Yu Xu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1899-L1917) <br><br>
+Yu Xu* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1935-L1953) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2017-green)](http://arxiv.org/abs/1706.01450)<a href="https://scholar.google.com.hk/scholar?q=A+Joint+Model+for+Question+Answering+and+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Joint Model for Question Answering and Question Generation**](http://arxiv.org/abs/1706.01450) , <br> by *Tong Wang and
 Xingdi Yuan and
-Adam Trischler* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1759-L1773) <br><br>
+Adam Trischler* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1795-L1809) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2017-green)](http://arxiv.org/abs/1706.02027)<a href="https://scholar.google.com.hk/scholar?q=Question+Answering+and+Question+Generation+as+Dual+Tasks"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Question Answering and Question Generation as Dual Tasks**](http://arxiv.org/abs/1706.02027) , <br> by *Duyu Tang and
 Nan Duan and
 Tao Qin and
-Ming Zhou* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1812-L1827) <br><br>
+Ming Zhou* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1848-L1863) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2017-green)](http://arxiv.org/abs/1712.09827)<a href="https://scholar.google.com.hk/scholar?q=A+Syntactic+Approach+to+Domain-Specific+Automatic+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Syntactic Approach to Domain-Specific Automatic Question Generation**](http://arxiv.org/abs/1712.09827) , <br> by *Guy Danon and
-Mark Last* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2471-L2484) <br><br>
+Mark Last* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L2507-L2520) <br><br>

@@ -28,9 +28,9 @@ This page categorizes the literature by the **Contribution**.
 - [![](https://img.shields.io/badge/RPTEL-2021-green)](https://doi.org/10.1186/s41039-021-00151-1)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Question+Generation+and+Answer+Assessment:+A+Survey"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Question Generation and Answer Assessment: A Survey**](https://doi.org/10.1186/s41039-021-00151-1) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1635-L1652) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1671-L1688) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2019-green)](http://arxiv.org/abs/1905.08949)<a href="https://scholar.google.com.hk/scholar?q=Recent+Advances+in+Neural+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Recent Advances in Neural Question Generation**](http://arxiv.org/abs/1905.08949) , <br> by *Liangming Pan and
 Wenqiang Lei and
 Tat{-}Seng Chua and
-Min{-}Yen Kan* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1845-L1861) <br><br>
+Min{-}Yen Kan* [[bib]](https://github.com/bisheng/QGpapers/blob/master/bibtex.bib#L1881-L1897) <br><br>
