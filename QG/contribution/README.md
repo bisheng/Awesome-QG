@@ -6,31 +6,31 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Contribution**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/QG/blob/master/QG/contribution/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Survey-2-green)](https://github.com/bisheng/QG/blob/master/QG/contribution/README.md#survey)
+- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Survey-2-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution/README.md#survey)
 ## Taxonomy 
-- [Summary](https://github.com/bisheng/QG/blob/master/QG/./)
-- [Application](https://github.com/bisheng/QG/blob/master/QG/application)
-- [Approach](https://github.com/bisheng/QG/blob/master/QG/approach)
-- [Author](https://github.com/bisheng/QG/blob/master/QG/author)
-- [Backbone Model](https://github.com/bisheng/QG/blob/master/QG/backbone_model)
-- [Contribution](https://github.com/bisheng/QG/blob/master/QG/contribution)
-- [Dataset](https://github.com/bisheng/QG/blob/master/QG/dataset)
-- [Metrics](https://github.com/bisheng/QG/blob/master/QG/metrics)
-- [Research Questions](https://github.com/bisheng/QG/blob/master/QG/research_question)
-- [Setting](https://github.com/bisheng/QG/blob/master/QG/setting)
-- [Learning Paradigm](https://github.com/bisheng/QG/blob/master/QG/supervision)
-- [Published Time](https://github.com/bisheng/QG/blob/master/QG/time)
-- [Published Venue](https://github.com/bisheng/QG/blob/master/QG/venue)
+- [Summary](https://github.com/bisheng/Awesome-QG/blob/master/QG/./)
+- [Application](https://github.com/bisheng/Awesome-QG/blob/master/QG/application)
+- [Approach](https://github.com/bisheng/Awesome-QG/blob/master/QG/approach)
+- [Author](https://github.com/bisheng/Awesome-QG/blob/master/QG/author)
+- [Backbone Model](https://github.com/bisheng/Awesome-QG/blob/master/QG/backbone_model)
+- [Contribution](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution)
+- [Dataset](https://github.com/bisheng/Awesome-QG/blob/master/QG/dataset)
+- [Metrics](https://github.com/bisheng/Awesome-QG/blob/master/QG/metrics)
+- [Research Questions](https://github.com/bisheng/Awesome-QG/blob/master/QG/research_question)
+- [Setting](https://github.com/bisheng/Awesome-QG/blob/master/QG/setting)
+- [Learning Paradigm](https://github.com/bisheng/Awesome-QG/blob/master/QG/supervision)
+- [Published Time](https://github.com/bisheng/Awesome-QG/blob/master/QG/time)
+- [Published Venue](https://github.com/bisheng/Awesome-QG/blob/master/QG/venue)
 
 ## Survey
 
 - [![](https://img.shields.io/badge/RPTEL-2021-green)](https://doi.org/10.1186/s41039-021-00151-1)<a href="https://scholar.google.com.hk/scholar?q=Automatic+Question+Generation+and+Answer+Assessment:+A+Survey"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Automatic Question Generation and Answer Assessment: A Survey**](https://doi.org/10.1186/s41039-021-00151-1) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/QG/blob/master/bibtex.bib#L1671-L1688) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L1671-L1688) <br><br>
 
 - [![](https://img.shields.io/badge/CoRR-2019-green)](http://arxiv.org/abs/1905.08949)<a href="https://scholar.google.com.hk/scholar?q=Recent+Advances+in+Neural+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Recent Advances in Neural Question Generation**](http://arxiv.org/abs/1905.08949) , <br> by *Liangming Pan and
 Wenqiang Lei and
 Tat{-}Seng Chua and
-Min{-}Yen Kan* [[bib]](https://github.com/bisheng/QG/blob/master/bibtex.bib#L1881-L1897) <br><br>
+Min{-}Yen Kan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L1881-L1897) <br><br>
