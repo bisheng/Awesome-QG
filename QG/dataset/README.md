@@ -6,7 +6,7 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Dataset**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/dataset/README.md#taxonomy)
+- [![](https://img.shields.io/badge/Taxonomy-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/dataset/README.md#taxonomy)
 ## Taxonomy 
 - [Summary](https://github.com/bisheng/Awesome-QG/blob/master/QG/./)
 - [Application](https://github.com/bisheng/Awesome-QG/blob/master/QG/application)
@@ -16,6 +16,7 @@ This page categorizes the literature by the **Dataset**.
 - [Contribution](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution)
 - [Dataset](https://github.com/bisheng/Awesome-QG/blob/master/QG/dataset)
 - [Metrics](https://github.com/bisheng/Awesome-QG/blob/master/QG/metrics)
+- [Question Type](https://github.com/bisheng/Awesome-QG/blob/master/QG/question_type)
 - [Research Questions](https://github.com/bisheng/Awesome-QG/blob/master/QG/research_question)
 - [Setting](https://github.com/bisheng/Awesome-QG/blob/master/QG/setting)
 - [Learning Paradigm](https://github.com/bisheng/Awesome-QG/blob/master/QG/supervision)

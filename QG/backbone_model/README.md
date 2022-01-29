@@ -6,7 +6,8 @@ Due to time limitation, many of the contents have not been updated, such as 'Tax
 This page categorizes the literature by the **Backbone Model**.
 
 ## Outline 
-- [![](https://img.shields.io/badge/Hyperlink-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/backbone_model/README.md#taxonomy)
+- [![](https://img.shields.io/badge/Taxonomy-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/backbone_model/README.md#taxonomy)
+- [![](https://img.shields.io/badge/PTMs-1-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/backbone_model/README.md#ptms)
 ## Taxonomy 
 - [Summary](https://github.com/bisheng/Awesome-QG/blob/master/QG/./)
 - [Application](https://github.com/bisheng/Awesome-QG/blob/master/QG/application)
@@ -16,8 +17,14 @@ This page categorizes the literature by the **Backbone Model**.
 - [Contribution](https://github.com/bisheng/Awesome-QG/blob/master/QG/contribution)
 - [Dataset](https://github.com/bisheng/Awesome-QG/blob/master/QG/dataset)
 - [Metrics](https://github.com/bisheng/Awesome-QG/blob/master/QG/metrics)
+- [Question Type](https://github.com/bisheng/Awesome-QG/blob/master/QG/question_type)
 - [Research Questions](https://github.com/bisheng/Awesome-QG/blob/master/QG/research_question)
 - [Setting](https://github.com/bisheng/Awesome-QG/blob/master/QG/setting)
 - [Learning Paradigm](https://github.com/bisheng/Awesome-QG/blob/master/QG/supervision)
 - [Published Time](https://github.com/bisheng/Awesome-QG/blob/master/QG/time)
 - [Published Venue](https://github.com/bisheng/Awesome-QG/blob/master/QG/venue)
+
+## PTMs
+
+- [![](https://img.shields.io/badge/ACL-2021-green)](https://doi.org/10.18653/v1/2021.acl-short.88)<a href="https://scholar.google.com.hk/scholar?q=Question+Generation+for+Adaptive+Education"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Question Generation for Adaptive Education**](https://doi.org/10.18653/v1/2021.acl-short.88) , <br> by *Megha Srivastava and
+Noah Goodman* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L1066-L1084) <br><br>
