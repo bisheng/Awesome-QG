@@ -118,7 +118,7 @@ Asli Celikyilmaz and
 Chenyan Xiong and
 Jianfeng Gao and
 Mengdi Wang and
-Bill Dolan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3050-L3072) <br><br>
+Bill Dolan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3051-L3073) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2019-green)](https://aclanthology.org/W19-3619/)<a href="https://scholar.google.com.hk/scholar?q=Controlling+the+Specificity+of+Clarification+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Controlling the Specificity of Clarification Question Generation**](https://aclanthology.org/W19-3619/) , <br> by *Yang Trista Cao and
 Sudha Rao and
@@ -185,7 +185,7 @@ Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib
 - [![](https://img.shields.io/badge/CCL-2021-green)](https://doi.org/10.1007/978-3-030-84186-7\_10)<a href="https://scholar.google.com.hk/scholar?q=Enhancing+Question+Generation+with+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Enhancing Question Generation with Commonsense Knowledge**](https://doi.org/10.1007/978-3-030-84186-7\_10) , <br> by *Xin Jia and
 Hao Wang and
 Dawei Yin and
-Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2959-L2984) <br><br>
+Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2960-L2985) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://doi.org/10.18653/v1/2020.acl-main.545)<a href="https://scholar.google.com.hk/scholar?q=How+to+Ask+Good+Questions?+Try+to+Leverage+Paraphrases"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**How to Ask Good Questions? Try to Leverage Paraphrases**](https://doi.org/10.18653/v1/2020.acl-main.545) , <br> by *Xin Jia and
 Wenjie Zhou and
@@ -216,20 +216,20 @@ Ho{-}fung Leung* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 (Student Abstract)**](https://ojs.aaai.org/index.php/AAAI/article/view/17962) , <br> by *Jiayuan Xie and
 Feng Chen and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2707-L2722) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2708-L2723) <br><br>
 
 - [![](https://img.shields.io/badge/WAIM-2021-green)](https://doi.org/10.1007/978-3-030-85896-4\_26)<a href="https://scholar.google.com.hk/scholar?q=Difficulty-Controllable+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Difficulty-Controllable Visual Question Generation**](https://doi.org/10.1007/978-3-030-85896-4\_26) , <br> by *Feng Chen and
 Jiayuan Xie and
 Yi Cai and
 Tao Wang and
-Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2838-L2860) <br><br>
+Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2839-L2861) <br><br>
 
 - [![](https://img.shields.io/badge/Web_and_Big_Data___5th_International_Joint_Conference,_APWeb_WAIM
 2021,_Guangzhou,_China,_August_23_25,_2021,_Proceedings,_Part_{II}-2021-green)](https://doi.org/10.1007/978-3-030-85899-5\_18)<a href="https://scholar.google.com.hk/scholar?q=Comparison+Question+Generation+Based+on+Potential+Compared+Attributes+Extraction"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Comparison Question Generation Based on Potential Compared Attributes
 Extraction**](https://doi.org/10.1007/978-3-030-85899-5\_18) , <br> by *Jiayuan Xie and
 Wenhao Fang and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2862-L2885) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2863-L2886) <br><br>
 
 ## Xuanjing Huang
 
@@ -363,7 +363,7 @@ Ming Zhou* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#
 information sources in E-commerce**](https://doi.org/10.1016/j.neucom.2020.12.013) , <br> by *Yongzhen Wang and
 Kaisong Song and
 Lidong Bing and
-Xiaozhong Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2571-L2587) <br><br>
+Xiaozhong Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2572-L2588) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://doi.org/10.18653/v1/2020.acl-main.26)<a href="https://scholar.google.com.hk/scholar?q=Review-based+Question+Generation+with+Adaptive+Instance+Transfer+and+Augmentation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Review-based Question Generation with Adaptive Instance Transfer and
 Augmentation**](https://doi.org/10.18653/v1/2020.acl-main.26) , <br> by *Qian Yu and
@@ -410,20 +410,20 @@ Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib
 (Student Abstract)**](https://ojs.aaai.org/index.php/AAAI/article/view/17962) , <br> by *Jiayuan Xie and
 Feng Chen and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2707-L2722) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2708-L2723) <br><br>
 
 - [![](https://img.shields.io/badge/WAIM-2021-green)](https://doi.org/10.1007/978-3-030-85896-4\_26)<a href="https://scholar.google.com.hk/scholar?q=Difficulty-Controllable+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Difficulty-Controllable Visual Question Generation**](https://doi.org/10.1007/978-3-030-85896-4\_26) , <br> by *Feng Chen and
 Jiayuan Xie and
 Yi Cai and
 Tao Wang and
-Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2838-L2860) <br><br>
+Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2839-L2861) <br><br>
 
 - [![](https://img.shields.io/badge/Web_and_Big_Data___5th_International_Joint_Conference,_APWeb_WAIM
 2021,_Guangzhou,_China,_August_23_25,_2021,_Proceedings,_Part_{II}-2021-green)](https://doi.org/10.1007/978-3-030-85899-5\_18)<a href="https://scholar.google.com.hk/scholar?q=Comparison+Question+Generation+Based+on+Potential+Compared+Attributes+Extraction"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Comparison Question Generation Based on Potential Compared Attributes
 Extraction**](https://doi.org/10.1007/978-3-030-85899-5\_18) , <br> by *Jiayuan Xie and
 Wenhao Fang and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2862-L2885) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2863-L2886) <br><br>
 
 ## Claire Cardie
 
@@ -523,7 +523,7 @@ Kai Zheng* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#
 - [![](https://img.shields.io/badge/CCL-2021-green)](https://doi.org/10.1007/978-3-030-84186-7\_10)<a href="https://scholar.google.com.hk/scholar?q=Enhancing+Question+Generation+with+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Enhancing Question Generation with Commonsense Knowledge**](https://doi.org/10.1007/978-3-030-84186-7\_10) , <br> by *Xin Jia and
 Hao Wang and
 Dawei Yin and
-Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2959-L2984) <br><br>
+Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2960-L2985) <br><br>
 
 - [![](https://img.shields.io/badge/NLPCC-2018-green)](https://doi.org/10.1007/978-3-319-99495-6\_12)<a href="https://scholar.google.com.hk/scholar?q=A+Neural+Question+Generation+System+Based+on+Knowledge+Base"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**A Neural Question Generation System Based on Knowledge Base**](https://doi.org/10.1007/978-3-319-99495-6\_12) , <br> by *Hao Wang and
 Xiaodong Zhang and
@@ -695,7 +695,7 @@ Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib
 - [![](https://img.shields.io/badge/CCL-2021-green)](https://doi.org/10.1007/978-3-030-84186-7\_10)<a href="https://scholar.google.com.hk/scholar?q=Enhancing+Question+Generation+with+Commonsense+Knowledge"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Enhancing Question Generation with Commonsense Knowledge**](https://doi.org/10.1007/978-3-030-84186-7\_10) , <br> by *Xin Jia and
 Hao Wang and
 Dawei Yin and
-Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2959-L2984) <br><br>
+Yunfang Wu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2960-L2985) <br><br>
 
 - [![](https://img.shields.io/badge/ACL-2020-green)](https://doi.org/10.18653/v1/2020.acl-main.545)<a href="https://scholar.google.com.hk/scholar?q=How+to+Ask+Good+Questions?+Try+to+Leverage+Paraphrases"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**How to Ask Good Questions? Try to Leverage Paraphrases**](https://doi.org/10.18653/v1/2020.acl-main.545) , <br> by *Xin Jia and
 Wenjie Zhou and
@@ -744,7 +744,7 @@ Min{-}Yen Kan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.
 
 - [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.201)<a href="https://scholar.google.com.hk/scholar?q=Iterative+GNN-based+Decoder+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Iterative GNN-based Decoder for Question Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.201) , <br> by *Zichu Fei and
 Qi Zhang and
-Yaqian Zhou* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3118-L3136) <br><br>
+Yaqian Zhou* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3119-L3137) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6449)<a href="https://scholar.google.com.hk/scholar?q=Neural+Question+Generation+with+Answer+Pivot"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Question Generation with Answer Pivot**](https://aaai.org/ojs/index.php/AAAI/article/view/6449) , <br> by *Bingning Wang and
 Xiaochuan Wang and
@@ -766,14 +766,14 @@ Xuanjing Huang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex
 (Student Abstract)**](https://ojs.aaai.org/index.php/AAAI/article/view/17962) , <br> by *Jiayuan Xie and
 Feng Chen and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2707-L2722) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2708-L2723) <br><br>
 
 - [![](https://img.shields.io/badge/Web_and_Big_Data___5th_International_Joint_Conference,_APWeb_WAIM
 2021,_Guangzhou,_China,_August_23_25,_2021,_Proceedings,_Part_{II}-2021-green)](https://doi.org/10.1007/978-3-030-85899-5\_18)<a href="https://scholar.google.com.hk/scholar?q=Comparison+Question+Generation+Based+on+Potential+Compared+Attributes+Extraction"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Comparison Question Generation Based on Potential Compared Attributes
 Extraction**](https://doi.org/10.1007/978-3-030-85899-5\_18) , <br> by *Jiayuan Xie and
 Wenhao Fang and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2862-L2885) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2863-L2886) <br><br>
 
 ## Feng Chen
 
@@ -781,13 +781,13 @@ Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib
 (Student Abstract)**](https://ojs.aaai.org/index.php/AAAI/article/view/17962) , <br> by *Jiayuan Xie and
 Feng Chen and
 Yi Cai and
-Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2707-L2722) <br><br>
+Zehang Lin* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2708-L2723) <br><br>
 
 - [![](https://img.shields.io/badge/WAIM-2021-green)](https://doi.org/10.1007/978-3-030-85896-4\_26)<a href="https://scholar.google.com.hk/scholar?q=Difficulty-Controllable+Visual+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Difficulty-Controllable Visual Question Generation**](https://doi.org/10.1007/978-3-030-85896-4\_26) , <br> by *Feng Chen and
 Jiayuan Xie and
 Yi Cai and
 Tao Wang and
-Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2838-L2860) <br><br>
+Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2839-L2861) <br><br>
 
 ## Chenyang Lyu
 
@@ -795,7 +795,7 @@ Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2
 and Context Switch Mechanism**](https://doi.org/10.3390/e23111449) , <br> by *Tianbo Ji and
 Chenyang Lyu and
 Zhichao Cao and
-Peng Cheng* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2535-L2552) <br><br>
+Peng Cheng* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2536-L2553) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.340)<a href="https://scholar.google.com.hk/scholar?q=Improving+Unsupervised+Question+Answering+via+Summarization-Informed+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving Unsupervised Question Answering via Summarization-Informed
 Question Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.340) , <br> by *Chenyang Lyu and
@@ -803,7 +803,7 @@ Lifeng Shang and
 Yvette Graham and
 Jennifer Foster and
 Xin Jiang and
-Qun Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3138-L3160) <br><br>
+Qun Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3139-L3161) <br><br>
 
 ## Aaron Sisto
 
@@ -815,7 +815,7 @@ Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bi
 - [![](https://img.shields.io/badge/W_NUT-2021-green)](https://doi.org/10.18653/v1/2021.wnut-1.25)<a href="https://scholar.google.com.hk/scholar?q=ConQuest:+Contextual+Question+Paraphrasing+through+Answer-Aware+Synthetic+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConQuest: Contextual Question Paraphrasing through Answer-Aware Synthetic
 Question Generation**](https://doi.org/10.18653/v1/2021.wnut-1.25) , <br> by *Mostafa Mirshekari and
 Jing Gu and
-Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2796-L2815) <br><br>
+Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2797-L2816) <br><br>
 
 ## Mostafa Mirshekari
 
@@ -827,7 +827,7 @@ Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bi
 - [![](https://img.shields.io/badge/W_NUT-2021-green)](https://doi.org/10.18653/v1/2021.wnut-1.25)<a href="https://scholar.google.com.hk/scholar?q=ConQuest:+Contextual+Question+Paraphrasing+through+Answer-Aware+Synthetic+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConQuest: Contextual Question Paraphrasing through Answer-Aware Synthetic
 Question Generation**](https://doi.org/10.18653/v1/2021.wnut-1.25) , <br> by *Mostafa Mirshekari and
 Jing Gu and
-Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2796-L2815) <br><br>
+Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2797-L2816) <br><br>
 
 ## Jing Gu
 
@@ -839,7 +839,7 @@ Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bi
 - [![](https://img.shields.io/badge/W_NUT-2021-green)](https://doi.org/10.18653/v1/2021.wnut-1.25)<a href="https://scholar.google.com.hk/scholar?q=ConQuest:+Contextual+Question+Paraphrasing+through+Answer-Aware+Synthetic+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**ConQuest: Contextual Question Paraphrasing through Answer-Aware Synthetic
 Question Generation**](https://doi.org/10.18653/v1/2021.wnut-1.25) , <br> by *Mostafa Mirshekari and
 Jing Gu and
-Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2796-L2815) <br><br>
+Aaron Sisto* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2797-L2816) <br><br>
 
 ## Kenny Q. Zhu
 
@@ -848,7 +848,7 @@ Questions**](https://ojs.aaai.org/index.php/AAAI/article/view/16559) , <br> by *
 Kenny Q. Zhu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2313-L2327) <br><br>
 
 - [![](https://img.shields.io/badge/WWW-2021-green)](https://doi.org/10.1145/3442381.3449876)<a href="https://scholar.google.com.hk/scholar?q=Diverse+and+Specific+Clarification+Question+Generation+with+Keywords"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Diverse and Specific Clarification Question Generation with Keywords**](https://doi.org/10.1145/3442381.3449876) , <br> by *Zhiling Zhang and
-Kenny Q. Zhu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2463-L2481) <br><br>
+Kenny Q. Zhu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2464-L2482) <br><br>
 
 ## Guy Danon
 
@@ -899,7 +899,7 @@ Weike Jin and
 Zhicheng Wei and
 Min Yang and
 Nannan Wang and
-Nicholas Jing Yuan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2643-L2663) <br><br>
+Nicholas Jing Yuan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2644-L2664) <br><br>
 
 - [![](https://img.shields.io/badge/IJCAI-2019-green)](https://doi.org/10.24963/ijcai.2019/528)<a href="https://scholar.google.com.hk/scholar?q=Weak+Supervision+Enhanced+Generative+Network+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Weak Supervision Enhanced Generative Network for Question Generation**](https://doi.org/10.24963/ijcai.2019/528) , <br> by *Yutong Wang and
 Jiyuan Zheng and
@@ -967,7 +967,7 @@ Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 for computer-assisted educational assessment**](https://doi.org/10.1007/s11042-021-11222-2) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2624-L2641) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2625-L2642) <br><br>
 
 ## Santanu Phadikar
 
@@ -980,7 +980,7 @@ Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 for computer-assisted educational assessment**](https://doi.org/10.1007/s11042-021-11222-2) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2624-L2641) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2625-L2642) <br><br>
 
 ## Mukta Majumder
 
@@ -993,7 +993,7 @@ Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 for computer-assisted educational assessment**](https://doi.org/10.1007/s11042-021-11222-2) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2624-L2641) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2625-L2642) <br><br>
 
 ## Bidyut Das
 
@@ -1006,7 +1006,7 @@ Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 for computer-assisted educational assessment**](https://doi.org/10.1007/s11042-021-11222-2) , <br> by *Bidyut Das and
 Mukta Majumder and
 Santanu Phadikar and
-Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2624-L2641) <br><br>
+Arif Ahmed Sekh* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2625-L2642) <br><br>
 
 ## Qing Li
 
@@ -1024,7 +1024,7 @@ Ho{-}fung Leung* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 Jiayuan Xie and
 Yi Cai and
 Tao Wang and
-Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2838-L2860) <br><br>
+Qing Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2839-L2861) <br><br>
 
 ## William Yang Wang
 
@@ -1287,7 +1287,7 @@ Yuan{-}Fang Li* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex
 information sources in E-commerce**](https://doi.org/10.1016/j.neucom.2020.12.013) , <br> by *Yongzhen Wang and
 Kaisong Song and
 Lidong Bing and
-Xiaozhong Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2571-L2587) <br><br>
+Xiaozhong Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2572-L2588) <br><br>
 
 - [![](https://img.shields.io/badge/COLING-2020-green)](https://doi.org/10.18653/v1/2020.coling-main.250)<a href="https://scholar.google.com.hk/scholar?q=Knowledge-enriched,+Type-constrained+and+Grammar-guided+Question+Generation+over+Knowledge+Bases"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Knowledge-enriched, Type-constrained and Grammar-guided Question Generation
 over Knowledge Bases**](https://doi.org/10.18653/v1/2020.coling-main.250) , <br> by *Sheng Bi and
@@ -1398,7 +1398,7 @@ Model**](https://doi.org/10.18653/v1/2021.findings-acl.199) , <br> by *Bingning 
 Ting Yao and
 Weipeng Chen and
 Jingfang Xu and
-Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2771-L2794) <br><br>
+Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2772-L2795) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6449)<a href="https://scholar.google.com.hk/scholar?q=Neural+Question+Generation+with+Answer+Pivot"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Question Generation with Answer Pivot**](https://aaai.org/ojs/index.php/AAAI/article/view/6449) , <br> by *Bingning Wang and
 Xiaochuan Wang and
@@ -1413,7 +1413,7 @@ Model**](https://doi.org/10.18653/v1/2021.findings-acl.199) , <br> by *Bingning 
 Ting Yao and
 Weipeng Chen and
 Jingfang Xu and
-Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2771-L2794) <br><br>
+Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2772-L2795) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6449)<a href="https://scholar.google.com.hk/scholar?q=Neural+Question+Generation+with+Answer+Pivot"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Question Generation with Answer Pivot**](https://aaai.org/ojs/index.php/AAAI/article/view/6449) , <br> by *Bingning Wang and
 Xiaochuan Wang and
@@ -1428,7 +1428,7 @@ Model**](https://doi.org/10.18653/v1/2021.findings-acl.199) , <br> by *Bingning 
 Ting Yao and
 Weipeng Chen and
 Jingfang Xu and
-Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2771-L2794) <br><br>
+Xiaochuan Wang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2772-L2795) <br><br>
 
 - [![](https://img.shields.io/badge/AAAI-2020-green)](https://aaai.org/ojs/index.php/AAAI/article/view/6449)<a href="https://scholar.google.com.hk/scholar?q=Neural+Question+Generation+with+Answer+Pivot"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Neural Question Generation with Answer Pivot**](https://aaai.org/ojs/index.php/AAAI/article/view/6449) , <br> by *Bingning Wang and
 Xiaochuan Wang and

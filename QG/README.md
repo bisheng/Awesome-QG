@@ -232,7 +232,7 @@ Prashanth Mannem* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibt
 
 - [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.201)<a href="https://scholar.google.com.hk/scholar?q=Iterative+GNN-based+Decoder+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Iterative GNN-based Decoder for Question Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.201) , <br> by *Zichu Fei and
 Qi Zhang and
-Yaqian Zhou* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3118-L3136) <br><br>
+Yaqian Zhou* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3119-L3137) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.340)<a href="https://scholar.google.com.hk/scholar?q=Improving+Unsupervised+Question+Answering+via+Summarization-Informed+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Improving Unsupervised Question Answering via Summarization-Informed
 Question Generation**](https://doi.org/10.18653/v1/2021.emnlp-main.340) , <br> by *Chenyang Lyu and
@@ -240,13 +240,13 @@ Lifeng Shang and
 Yvette Graham and
 Jennifer Foster and
 Xin Jiang and
-Qun Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3138-L3160) <br><br>
+Qun Liu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3139-L3161) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2021-green)](https://doi.org/10.18653/v1/2021.emnlp-main.44)<a href="https://scholar.google.com.hk/scholar?q=Open-domain+clarification+question+generation+without+question+examples"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Open-domain clarification question generation without question examples**](https://doi.org/10.18653/v1/2021.emnlp-main.44) , <br> by *Julia White and
 Gabriel Poesia and
 Robert X. D. Hawkins and
 Dorsa Sadigh and
-Noah D. Goodman* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3162-L3182) <br><br>
+Noah D. Goodman* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3163-L3183) <br><br>
 
 - [![](https://img.shields.io/badge/EMNLP-2020-green)](https://doi.org/10.18653/v1/2020.emnlp-main.530)<a href="https://scholar.google.com.hk/scholar?q=Inquisitive+Question+Generation+for+High+Level+Text+Comprehension"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Inquisitive Question Generation for High Level Text Comprehension**](https://doi.org/10.18653/v1/2020.emnlp-main.530) , <br> by *Wei{-}Jen Ko and
 Te{-}Yuan Chen and
@@ -499,11 +499,11 @@ Asli Celikyilmaz and
 Chenyan Xiong and
 Jianfeng Gao and
 Mengdi Wang and
-Bill Dolan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3050-L3072) <br><br>
+Bill Dolan* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3051-L3073) <br><br>
 
 - [![](https://img.shields.io/badge/EACL-2021-green)](https://doi.org/10.18653/v1/2021.eacl-main.279)<a href="https://scholar.google.com.hk/scholar?q=Expanding,+Retrieving+and+Infilling:+Diversifying+Cross-Domain+Question+Generation+with+Flexible+Templates"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Expanding, Retrieving and Infilling: Diversifying Cross-Domain Question
 Generation with Flexible Templates**](https://doi.org/10.18653/v1/2021.eacl-main.279) , <br> by *Xiaojing Yu and
-Anxiao Jiang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3074-L3091) <br><br>
+Anxiao Jiang* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3075-L3092) <br><br>
 
 - [![](https://img.shields.io/badge/EACL-2017-green)](https://doi.org/10.18653/v1/e17-1036)<a href="https://scholar.google.com.hk/scholar?q=Generating+Natural+Language+Question-Answer+Pairs+from+a+Knowledge+Graph+Using+a+RNN+Based+Question+Generation+Model"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Generating Natural Language Question-Answer Pairs from a Knowledge
 Graph Using a RNN Based Question Generation Model**](https://doi.org/10.18653/v1/e17-1036) , <br> by *Sathish Reddy and
@@ -626,7 +626,7 @@ Vinh Q. Tran and
 Cong Yu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L1427-L1447) <br><br>
 
 - [![](https://img.shields.io/badge/WWW-2021-green)](https://doi.org/10.1145/3442381.3449876)<a href="https://scholar.google.com.hk/scholar?q=Diverse+and+Specific+Clarification+Question+Generation+with+Keywords"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Diverse and Specific Clarification Question Generation with Keywords**](https://doi.org/10.1145/3442381.3449876) , <br> by *Zhiling Zhang and
-Kenny Q. Zhu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2463-L2481) <br><br>
+Kenny Q. Zhu* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2464-L2482) <br><br>
 
 ## CVPR
 
@@ -686,7 +686,7 @@ Philip H. Winne* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibte
 Tan Wang and
 Yang Yang and
 Alan Hanjalic and
-Heng Tao Shen* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2688-L2705) <br><br>
+Heng Tao Shen* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L2689-L2706) <br><br>
 
 ## RPTEL
 
