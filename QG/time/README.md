@@ -8,7 +8,7 @@ This page categorizes the literature by the **Last Post**.
 ## Outline 
 - [![](https://img.shields.io/badge/Taxonomy-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#taxonomy)
 - [![](https://img.shields.io/badge/2022-2-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2022)
-- [![](https://img.shields.io/badge/2021-55-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2021)
+- [![](https://img.shields.io/badge/2021-56-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2021)
 - [![](https://img.shields.io/badge/2020-28-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2020)
 - [![](https://img.shields.io/badge/2019-34-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2019)
 - [![](https://img.shields.io/badge/2018-17-green)](https://github.com/bisheng/Awesome-QG/blob/master/QG/time/README.md#2018)
@@ -361,6 +361,13 @@ Lingfeng Liang and
 Zexin Xie and
 Shuxuan Liao and
 Guofeng Shi* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3203-L3226) <br><br>
+
+- [![](https://img.shields.io/badge/ICASSP-2021-green)](https://doi.org/10.1109/ICASSP39728.2021.9414933)<a href="https://scholar.google.com.hk/scholar?q=Paragraph+Level+Multi-Perspective+Context+Modeling+for+Question+Generation"><img src="https://img.shields.io/badge/-green.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Paragraph Level Multi-Perspective Context Modeling for Question Generation**](https://doi.org/10.1109/ICASSP39728.2021.9414933) , <br> by *Jun Bai and
+Wenge Rong and
+Feiyu Xia and
+Yanmeng Wang and
+Yuanxin Ouyang and
+Zhang Xiong* [[bib]](https://github.com/bisheng/Awesome-QG/blob/master/bibtex.bib#L3228-L3245) <br><br>
 
 ## 2020
 
